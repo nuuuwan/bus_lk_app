@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bus_lk_app/static/css/main.dd9a65d5.chunk.css",
+    "main.js": "/bus_lk_app/static/js/main.c9f74b58.chunk.js",
+    "main.js.map": "/bus_lk_app/static/js/main.c9f74b58.chunk.js.map",
+    "runtime-main.js": "/bus_lk_app/static/js/runtime-main.ac39ad31.js",
+    "runtime-main.js.map": "/bus_lk_app/static/js/runtime-main.ac39ad31.js.map",
+    "static/js/2.484e5d7a.chunk.js": "/bus_lk_app/static/js/2.484e5d7a.chunk.js",
+    "static/js/2.484e5d7a.chunk.js.map": "/bus_lk_app/static/js/2.484e5d7a.chunk.js.map",
+    "static/js/3.56c7ee83.chunk.js": "/bus_lk_app/static/js/3.56c7ee83.chunk.js",
+    "static/js/3.56c7ee83.chunk.js.map": "/bus_lk_app/static/js/3.56c7ee83.chunk.js.map",
+    "index.html": "/bus_lk_app/index.html",
+    "static/css/main.dd9a65d5.chunk.css.map": "/bus_lk_app/static/css/main.dd9a65d5.chunk.css.map",
+    "static/js/2.484e5d7a.chunk.js.LICENSE.txt": "/bus_lk_app/static/js/2.484e5d7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac39ad31.js",
+    "static/js/2.484e5d7a.chunk.js",
+    "static/css/main.dd9a65d5.chunk.css",
+    "static/js/main.c9f74b58.chunk.js"
+  ]
+}
