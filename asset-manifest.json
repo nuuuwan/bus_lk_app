@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bus_lk_app/static/css/main.ef90142d.chunk.css",
-    "main.js": "/bus_lk_app/static/js/main.48f6f2ec.chunk.js",
-    "main.js.map": "/bus_lk_app/static/js/main.48f6f2ec.chunk.js.map",
+    "main.css": "/bus_lk_app/static/css/main.0a06265b.chunk.css",
+    "main.js": "/bus_lk_app/static/js/main.6c28dc92.chunk.js",
+    "main.js.map": "/bus_lk_app/static/js/main.6c28dc92.chunk.js.map",
     "runtime-main.js": "/bus_lk_app/static/js/runtime-main.ffc65237.js",
     "runtime-main.js.map": "/bus_lk_app/static/js/runtime-main.ffc65237.js.map",
     "static/js/2.5191ee51.chunk.js": "/bus_lk_app/static/js/2.5191ee51.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.d3af55f5.chunk.js": "/bus_lk_app/static/js/3.d3af55f5.chunk.js",
     "static/js/3.d3af55f5.chunk.js.map": "/bus_lk_app/static/js/3.d3af55f5.chunk.js.map",
     "index.html": "/bus_lk_app/index.html",
-    "static/css/main.ef90142d.chunk.css.map": "/bus_lk_app/static/css/main.ef90142d.chunk.css.map",
+    "static/css/main.0a06265b.chunk.css.map": "/bus_lk_app/static/css/main.0a06265b.chunk.css.map",
     "static/js/2.5191ee51.chunk.js.LICENSE.txt": "/bus_lk_app/static/js/2.5191ee51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ffc65237.js",
     "static/js/2.5191ee51.chunk.js",
-    "static/css/main.ef90142d.chunk.css",
-    "static/js/main.48f6f2ec.chunk.js"
+    "static/css/main.0a06265b.chunk.css",
+    "static/js/main.6c28dc92.chunk.js"
   ]
 }
