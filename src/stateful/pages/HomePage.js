@@ -1,6 +1,11 @@
 import { Component } from "react";
 import Stops from "../../core/Stops.js";
 import ClosestStopsView from "../../nonstate/molecules/ClosestStopsView.js";
+import GeoMap from "../molecules/GeoMap.js";
+
+import "./HomePage.css";
+
+const DEFAULT_ZOOM = 18;
 
 export default class HomePage extends Component {
   constructor(props) {
@@ -35,11 +40,15 @@ export default class HomePage extends Component {
     const [latDisplay, lngDisplay] = [lat, lng].map((x) => x.toFixed(6));
     return (
       <div>
-        <h1>Bus App</h1>
-        <div>
-          Location: ({latDisplay}N, {lngDisplay}E)
+        <div className="div-main-pane">
+          <h1>Bus App</h1>
+          <div>
+            Location: ({latDisplay}N, {lngDisplay}E)
+          </div>
+          <ClosestStopsView closestStops={closestStops} />
         </div>
-        <ClosestStopsView closestStops={closestStops} />
+
+        <GeoMap center={[lat, lng]} zoom={DEFAULT_ZOOM} />
       </div>
     );
   }

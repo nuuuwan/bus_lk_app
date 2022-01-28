@@ -15,3 +15,4 @@
   *  [2022-01-28 07:44PM] r_lint
   *  [2022-01-28 07:49PM] Removed tests from build workflow
   *  [2022-01-28 08:36PM] Added Closest Stops
+  *  [2022-01-28 08:59PM] Added GeoMap
