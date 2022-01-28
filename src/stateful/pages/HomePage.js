@@ -1,14 +1,23 @@
 import { Component } from "react";
+import Stops from "../../core/Stops.js";
+import ClosestStopsView from "../../nonstate/molecules/ClosestStopsView.js";
 
 export default class HomePage extends Component {
   constructor(props) {
     super(props);
-    this.state = { latLng: undefined };
+    this.state = {
+      latLng: undefined,
+      closestStops: undefined,
+      isDataLoaded: false,
+    };
   }
 
-  onGetCurrentPosition(position) {
+  async onGetCurrentPosition(position) {
     const latLng = [position.coords.latitude, position.coords.longitude];
-    this.setState({ latLng });
+
+    const closestStops = await Stops.getClosestStops(latLng);
+
+    this.setState({ latLng, closestStops, isDataLoaded: true });
   }
 
   async componentDidMount() {
@@ -16,16 +25,21 @@ export default class HomePage extends Component {
       this.onGetCurrentPosition.bind(this)
     );
   }
-  
+
   render() {
-    const { latLng } = this.state;
-    if (!latLng) {
+    const { latLng, closestStops, isDataLoaded } = this.state;
+    if (!isDataLoaded) {
       return "Loading...";
     }
+    const [lat, lng] = latLng;
+    const [latDisplay, lngDisplay] = [lat, lng].map((x) => x.toFixed(6));
     return (
       <div>
         <h1>Bus App</h1>
-        <div>{latLng}</div>
+        <div>
+          Location: ({latDisplay}N, {lngDisplay}E)
+        </div>
+        <ClosestStopsView closestStops={closestStops} />
       </div>
     );
   }

@@ -1,6 +1,6 @@
 # React App by nuuuwan
 
-[App Home](https://nuuuwan.github.io/nuwan_org)
+[App Home](https://nuuuwan.github.io/bus_lk_app)
 
 ## Revision History
   * Cleaned README.md
@@ -14,3 +14,4 @@
   *  [2022-01-28 07:44PM] Removed tests
   *  [2022-01-28 07:44PM] r_lint
   *  [2022-01-28 07:49PM] Removed tests from build workflow
+  *  [2022-01-28 08:36PM] Added Closest Stops
