@@ -17,3 +17,4 @@
   *  [2022-01-28 08:36PM] Added Closest Stops
   *  [2022-01-28 08:59PM] Added GeoMap
   *  [2022-01-28 09:03PM] Added installs
+  *  [2022-01-28 09:12PM] Added StopCircle

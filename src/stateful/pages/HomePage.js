@@ -2,6 +2,7 @@ import { Component } from "react";
 import Stops from "../../core/Stops.js";
 import ClosestStopsView from "../../nonstate/molecules/ClosestStopsView.js";
 import GeoMap from "../molecules/GeoMap.js";
+import StopCircle from "../../nonstate/molecules/StopCircle.js";
 
 import "./HomePage.css";
 
@@ -48,7 +49,11 @@ export default class HomePage extends Component {
           <ClosestStopsView closestStops={closestStops} />
         </div>
 
-        <GeoMap center={[lat, lng]} zoom={DEFAULT_ZOOM} />
+        <GeoMap center={[lat, lng]} zoom={DEFAULT_ZOOM}>
+          {closestStops.map(function (stop, iStop) {
+            return <StopCircle key={`stop-circle-${iStop}`} stop={stop} />;
+          })}
+        </GeoMap>
       </div>
     );
   }

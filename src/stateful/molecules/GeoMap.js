@@ -16,6 +16,7 @@ export default class GeoMap extends Component {
           src={imgGeoLocate}
           alt={"geolocate"}
         />
+        {this.props.children}
       </MapContainer>
     );
   }
