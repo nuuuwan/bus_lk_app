@@ -6,7 +6,7 @@ import StopCircle from "../../nonstate/molecules/StopCircle.js";
 
 import "./HomePage.css";
 
-const DEFAULT_ZOOM = 18;
+const DEFAULT_ZOOM = 16;
 
 export default class HomePage extends Component {
   constructor(props) {
@@ -42,9 +42,8 @@ export default class HomePage extends Component {
     return (
       <div>
         <div className="div-main-pane">
-          <h1>Bus App</h1>
           <div>
-            Location: ({latDisplay}N, {lngDisplay}E)
+            {latDisplay}N, {lngDisplay}E
           </div>
           <ClosestStopsView closestStops={closestStops} />
         </div>
