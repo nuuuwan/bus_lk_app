@@ -1,0 +1,2306 @@
+{
+  "6Th Mile Post (6JRXVVFJ+FQ)": {
+    "stop_id": "6Th Mile Post (6JRXVVFJ+FQ)",
+    "name": "6Th Mile Post",
+    "global_code": "6JRXVVFJ+FQ",
+    "lat_lng": [
+      6.873637,
+      79.881966
+    ]
+  },
+  "6th Mile Post Bus Stop (6JRXVVFJ+FR)": {
+    "stop_id": "6th Mile Post Bus Stop (6JRXVVFJ+FR)",
+    "name": "6th Mile Post Bus Stop",
+    "global_code": "6JRXVVFJ+FR",
+    "lat_lng": [
+      6.873669,
+      79.881998
+    ]
+  },
+  "Air Force Hq Bus Stop (6JRXWVG2+PG)": {
+    "stop_id": "Air Force Hq Bus Stop (6JRXWVG2+PG)",
+    "name": "Air Force Hq Bus Stop",
+    "global_code": "6JRXWVG2+PG",
+    "lat_lng": [
+      6.92687,
+      79.851327
+    ]
+  },
+  "Alfred Place Bus Stop (6JRXWV33+3V)": {
+    "stop_id": "Alfred Place Bus Stop (6JRXWV33+3V)",
+    "name": "Alfred Place Bus Stop",
+    "global_code": "6JRXWV33+3V",
+    "lat_lng": [
+      6.902674,
+      79.854677
+    ]
+  },
+  "Ananda College Bus Stop (6JRXWVF9+HF)": {
+    "stop_id": "Ananda College Bus Stop (6JRXWVF9+HF)",
+    "name": "Ananda College Bus Stop",
+    "global_code": "6JRXWVF9+HF",
+    "lat_lng": [
+      6.923938,
+      79.868713
+    ]
+  },
+  "Anderson Road (6JRXVV8H+CV)": {
+    "stop_id": "Anderson Road (6JRXVV8H+CV)",
+    "name": "Anderson Road",
+    "global_code": "6JRXVV8H+CV",
+    "lat_lng": [
+      6.866109,
+      79.879673
+    ]
+  },
+  "Anula (6JRXVVCM+X9)": {
+    "stop_id": "Anula (6JRXVVCM+X9)",
+    "name": "Anula",
+    "global_code": "6JRXVVCM+X9",
+    "lat_lng": [
+      6.872382,
+      79.883392
+    ]
+  },
+  "Anula Vidyalaya Bus Stop (6JRXVVCM+WH)": {
+    "stop_id": "Anula Vidyalaya Bus Stop (6JRXVVCM+WH)",
+    "name": "Anula Vidyalaya Bus Stop",
+    "global_code": "6JRXVVCM+WH",
+    "lat_lng": [
+      6.872252,
+      79.883909
+    ]
+  },
+  "Aquinas Bus Stop (6JRXWV9F+4V)": {
+    "stop_id": "Aquinas Bus Stop (6JRXWV9F+4V)",
+    "name": "Aquinas Bus Stop",
+    "global_code": "6JRXWV9F+4V",
+    "lat_lng": [
+      6.917828,
+      79.874667
+    ]
+  },
+  "Armour Street Bus Stop (6JRXWVQ8+X9)": {
+    "stop_id": "Armour Street Bus Stop (6JRXWVQ8+X9)",
+    "name": "Armour Street Bus Stop",
+    "global_code": "6JRXWVQ8+X9",
+    "lat_lng": [
+      6.939942,
+      79.865909
+    ]
+  },
+  "Armour Street Junction Bus Stop (6JRXWVV7+4R)": {
+    "stop_id": "Armour Street Junction Bus Stop (6JRXWVV7+4R)",
+    "name": "Armour Street Junction Bus Stop",
+    "global_code": "6JRXWVV7+4R",
+    "lat_lng": [
+      6.94286,
+      79.864553
+    ]
+  },
+  "Army Hospital Bus Stop (6JRXWV2G+9W)": {
+    "stop_id": "Army Hospital Bus Stop (6JRXWV2G+9W)",
+    "name": "Army Hospital Bus Stop",
+    "global_code": "6JRXWV2G+9W",
+    "lat_lng": [
+      6.900999,
+      79.877278
+    ]
+  },
+  "Bambalapitiya Junction Bus Stop (6JRXVVV4+MX)": {
+    "stop_id": "Bambalapitiya Junction Bus Stop (6JRXVVV4+MX)",
+    "name": "Bambalapitiya Junction Bus Stop",
+    "global_code": "6JRXVVV4+MX",
+    "lat_lng": [
+      6.894213,
+      79.857435
+    ]
+  },
+  "Bernards Bus Stop (6JRXVVCG+7X)": {
+    "stop_id": "Bernards Bus Stop (6JRXVVCG+7X)",
+    "name": "Bernards Bus Stop",
+    "global_code": "6JRXVVCG+7X",
+    "lat_lng": [
+      6.870649,
+      79.877448
+    ]
+  },
+  "Bernards Bus Stop (6JRXVVCH+38)": {
+    "stop_id": "Bernards Bus Stop (6JRXVVCH+38)",
+    "name": "Bernards Bus Stop",
+    "global_code": "6JRXVVCH+38",
+    "lat_lng": [
+      6.87019,
+      79.878293
+    ]
+  },
+  "Bodhirukkarama Bus Stop (6JRXVV87+V4)": {
+    "stop_id": "Bodhirukkarama Bus Stop (6JRXVV87+V4)",
+    "name": "Bodhirukkarama Bus Stop",
+    "global_code": "6JRXVV87+V4",
+    "lat_lng": [
+      6.867132,
+      79.862842
+    ]
+  },
+  "Borella Bus Stop (6JRXWV7H+P2)": {
+    "stop_id": "Borella Bus Stop (6JRXWV7H+P2)",
+    "name": "Borella Bus Stop",
+    "global_code": "6JRXWV7H+P2",
+    "lat_lng": [
+      6.914367,
+      79.877574
+    ]
+  },
+  "Borella Bus Stop (6JRXWV7H+Q8)": {
+    "stop_id": "Borella Bus Stop (6JRXWV7H+Q8)",
+    "name": "Borella Bus Stop",
+    "global_code": "6JRXWV7H+Q8",
+    "lat_lng": [
+      6.914436,
+      79.878305
+    ]
+  },
+  "Borella Bus Stop (6JRXWV8G+8J)": {
+    "stop_id": "Borella Bus Stop (6JRXWV8G+8J)",
+    "name": "Borella Bus Stop",
+    "global_code": "6JRXWV8G+8J",
+    "lat_lng": [
+      6.91578,
+      79.876592
+    ]
+  },
+  "Borella Cemetery Bus Stop (6JRXWV4G+WX)": {
+    "stop_id": "Borella Cemetery Bus Stop (6JRXWV4G+WX)",
+    "name": "Borella Cemetery Bus Stop",
+    "global_code": "6JRXWV4G+WX",
+    "lat_lng": [
+      6.907252,
+      79.877407
+    ]
+  },
+  "Borella Cross Road Bus Stop (6JRXWV8G+F2)": {
+    "stop_id": "Borella Cross Road Bus Stop (6JRXWV8G+F2)",
+    "name": "Borella Cross Road Bus Stop",
+    "global_code": "6JRXWV8G+F2",
+    "lat_lng": [
+      6.916176,
+      79.875053
+    ]
+  },
+  "British Council Bus Stop (6JRXVVX4+9C)": {
+    "stop_id": "British Council Bus Stop (6JRXVVX4+9C)",
+    "name": "British Council Bus Stop",
+    "global_code": "6JRXVVX4+9C",
+    "lat_lng": [
+      6.898414,
+      79.856032
+    ]
+  },
+  "Budhdhagosha Bus Stop (6JRXVV8C+5W)": {
+    "stop_id": "Budhdhagosha Bus Stop (6JRXVV8C+5W)",
+    "name": "Budhdhagosha Bus Stop",
+    "global_code": "6JRXVV8C+5W",
+    "lat_lng": [
+      6.865446,
+      79.87229
+    ]
+  },
+  "Bungalow Junction Sri Jayawardene Kotte (6JRXVWV3+3R)": {
+    "stop_id": "Bungalow Junction Sri Jayawardene Kotte (6JRXVWV3+3R)",
+    "name": "Bungalow Junction Sri Jayawardene Kotte",
+    "global_code": "6JRXVWV3+3R",
+    "lat_lng": [
+      6.892661,
+      79.904564
+    ]
+  },
+  "Bus Stop (6JRXVV79+PQ)": {
+    "stop_id": "Bus Stop (6JRXVV79+PQ)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVV79+PQ",
+    "lat_lng": [
+      6.864299,
+      79.869494
+    ]
+  },
+  "Bus Stop (6JRXVV8J+FX)": {
+    "stop_id": "Bus Stop (6JRXVV8J+FX)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVV8J+FX",
+    "lat_lng": [
+      6.866217,
+      79.882438
+    ]
+  },
+  "Bus Stop (6JRXVVCF+VW)": {
+    "stop_id": "Bus Stop (6JRXVVCF+VW)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVCF+VW",
+    "lat_lng": [
+      6.872231,
+      79.874802
+    ]
+  },
+  "Bus Stop (6JRXVVFF+6G)": {
+    "stop_id": "Bus Stop (6JRXVVFF+6G)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVFF+6G",
+    "lat_lng": [
+      6.873035,
+      79.873833
+    ]
+  },
+  "Bus Stop (6JRXVVFF+H4)": {
+    "stop_id": "Bus Stop (6JRXVVFF+H4)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVFF+H4",
+    "lat_lng": [
+      6.873913,
+      79.872799
+    ]
+  },
+  "Bus Stop (6JRXVVFX+RC)": {
+    "stop_id": "Bus Stop (6JRXVVFX+RC)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVFX+RC",
+    "lat_lng": [
+      6.874622,
+      79.898504
+    ]
+  },
+  "Bus Stop (6JRXVVHX+GX)": {
+    "stop_id": "Bus Stop (6JRXVVHX+GX)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVHX+GX",
+    "lat_lng": [
+      6.878831,
+      79.899954
+    ]
+  },
+  "Bus Stop (6JRXVVJC+F3)": {
+    "stop_id": "Bus Stop (6JRXVVJC+F3)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVJC+F3",
+    "lat_lng": [
+      6.881207,
+      79.870158
+    ]
+  },
+  "Bus Stop (6JRXVVJW+C8)": {
+    "stop_id": "Bus Stop (6JRXVVJW+C8)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVJW+C8",
+    "lat_lng": [
+      6.881028,
+      79.895789
+    ]
+  },
+  "Bus Stop (6JRXVVP8+4J)": {
+    "stop_id": "Bus Stop (6JRXVVP8+4J)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVP8+4J",
+    "lat_lng": [
+      6.885354,
+      79.866534
+    ]
+  },
+  "Bus Stop (6JRXVVQ5+PJ)": {
+    "stop_id": "Bus Stop (6JRXVVQ5+PJ)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVQ5+PJ",
+    "lat_lng": [
+      6.889304,
+      79.859093
+    ]
+  },
+  "Bus Stop (6JRXVVR7+5V)": {
+    "stop_id": "Bus Stop (6JRXVVR7+5V)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVR7+5V",
+    "lat_lng": [
+      6.890466,
+      79.864666
+    ]
+  },
+  "Bus Stop (6JRXVVR8+FH)": {
+    "stop_id": "Bus Stop (6JRXVVR8+FH)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVR8+FH",
+    "lat_lng": [
+      6.891186,
+      79.866488
+    ]
+  },
+  "Bus Stop (6JRXVVWR+QQ)": {
+    "stop_id": "Bus Stop (6JRXVVWR+QQ)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVWR+QQ",
+    "lat_lng": [
+      6.896956,
+      79.891848
+    ]
+  },
+  "Bus Stop (6JRXVVX7+QQ)": {
+    "stop_id": "Bus Stop (6JRXVVX7+QQ)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVVX7+QQ",
+    "lat_lng": [
+      6.899439,
+      79.864405
+    ]
+  },
+  "Bus Stop (6JRXVWJ2+PC)": {
+    "stop_id": "Bus Stop (6JRXVWJ2+PC)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVWJ2+PC",
+    "lat_lng": [
+      6.881758,
+      79.90109
+    ]
+  },
+  "Bus Stop (6JRXVWP2+PW)": {
+    "stop_id": "Bus Stop (6JRXVWP2+PW)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVWP2+PW",
+    "lat_lng": [
+      6.88687,
+      79.902285
+    ]
+  },
+  "Bus Stop (6JRXVWQ3+F4)": {
+    "stop_id": "Bus Stop (6JRXVWQ3+F4)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVWQ3+F4",
+    "lat_lng": [
+      6.8887,
+      79.902851
+    ]
+  },
+  "Bus Stop (6JRXVWR3+MJ)": {
+    "stop_id": "Bus Stop (6JRXVWR3+MJ)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVWR3+MJ",
+    "lat_lng": [
+      6.891674,
+      79.904078
+    ]
+  },
+  "Bus Stop (6JRXVWV4+P4)": {
+    "stop_id": "Bus Stop (6JRXVWV4+P4)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVWV4+P4",
+    "lat_lng": [
+      6.894355,
+      79.905313
+    ]
+  },
+  "Bus Stop (6JRXVWX4+7C)": {
+    "stop_id": "Bus Stop (6JRXVWX4+7C)",
+    "name": "Bus Stop",
+    "global_code": "6JRXVWX4+7C",
+    "lat_lng": [
+      6.898189,
+      79.906118
+    ]
+  },
+  "Bus Stop (6JRXWRJX+22)": {
+    "stop_id": "Bus Stop (6JRXWRJX+22)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWRJX+22",
+    "lat_lng": [
+      6.929999,
+      79.847504
+    ]
+  },
+  "Bus Stop (6JRXWRJX+23)": {
+    "stop_id": "Bus Stop (6JRXWRJX+23)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWRJX+23",
+    "lat_lng": [
+      6.930092,
+      79.847646
+    ]
+  },
+  "Bus Stop (6JRXWV3G+4W)": {
+    "stop_id": "Bus Stop (6JRXWV3G+4W)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV3G+4W",
+    "lat_lng": [
+      6.902864,
+      79.877296
+    ]
+  },
+  "Bus Stop (6JRXWV3V+9M)": {
+    "stop_id": "Bus Stop (6JRXWV3V+9M)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV3V+9M",
+    "lat_lng": [
+      6.903416,
+      79.894155
+    ]
+  },
+  "Bus Stop (6JRXWV4W+X6)": {
+    "stop_id": "Bus Stop (6JRXWV4W+X6)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV4W+X6",
+    "lat_lng": [
+      6.907493,
+      79.895562
+    ]
+  },
+  "Bus Stop (6JRXWV5X+3X)": {
+    "stop_id": "Bus Stop (6JRXWV5X+3X)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV5X+3X",
+    "lat_lng": [
+      6.907664,
+      79.899884
+    ]
+  },
+  "Bus Stop (6JRXWV67+XX)": {
+    "stop_id": "Bus Stop (6JRXWV67+XX)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV67+XX",
+    "lat_lng": [
+      6.912459,
+      79.86492
+    ]
+  },
+  "Bus Stop (6JRXWV69+J9)": {
+    "stop_id": "Bus Stop (6JRXWV69+J9)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV69+J9",
+    "lat_lng": [
+      6.911618,
+      79.868448
+    ]
+  },
+  "Bus Stop (6JRXWV6F+H8)": {
+    "stop_id": "Bus Stop (6JRXWV6F+H8)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV6F+H8",
+    "lat_lng": [
+      6.911437,
+      79.873334
+    ]
+  },
+  "Bus Stop (6JRXWV6P+PJ)": {
+    "stop_id": "Bus Stop (6JRXWV6P+PJ)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV6P+PJ",
+    "lat_lng": [
+      6.911808,
+      79.886556
+    ]
+  },
+  "Bus Stop (6JRXWV89+HH)": {
+    "stop_id": "Bus Stop (6JRXWV89+HH)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV89+HH",
+    "lat_lng": [
+      6.916449,
+      79.868981
+    ]
+  },
+  "Bus Stop (6JRXWV9H+F4)": {
+    "stop_id": "Bus Stop (6JRXWV9H+F4)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWV9H+F4",
+    "lat_lng": [
+      6.918716,
+      79.87777
+    ]
+  },
+  "Bus Stop (6JRXWVF2+8M)": {
+    "stop_id": "Bus Stop (6JRXWVF2+8M)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVF2+8M",
+    "lat_lng": [
+      6.923281,
+      79.851711
+    ]
+  },
+  "Bus Stop (6JRXWVFF+78)": {
+    "stop_id": "Bus Stop (6JRXWVFF+78)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVFF+78",
+    "lat_lng": [
+      6.92319,
+      79.873246
+    ]
+  },
+  "Bus Stop (6JRXWVFF+C9)": {
+    "stop_id": "Bus Stop (6JRXWVFF+C9)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVFF+C9",
+    "lat_lng": [
+      6.923564,
+      79.873453
+    ]
+  },
+  "Bus Stop (6JRXWVG2+54)": {
+    "stop_id": "Bus Stop (6JRXWVG2+54)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVG2+54",
+    "lat_lng": [
+      6.925475,
+      79.850333
+    ]
+  },
+  "Bus Stop (6JRXWVG2+6M)": {
+    "stop_id": "Bus Stop (6JRXWVG2+6M)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVG2+6M",
+    "lat_lng": [
+      6.925634,
+      79.851765
+    ]
+  },
+  "Bus Stop (6JRXWVHG+C2)": {
+    "stop_id": "Bus Stop (6JRXWVHG+C2)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVHG+C2",
+    "lat_lng": [
+      6.928532,
+      79.875099
+    ]
+  },
+  "Bus Stop (6JRXWVHG+X4)": {
+    "stop_id": "Bus Stop (6JRXWVHG+X4)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVHG+X4",
+    "lat_lng": [
+      6.929921,
+      79.875375
+    ]
+  },
+  "Bus Stop (6JRXWVJG+86)": {
+    "stop_id": "Bus Stop (6JRXWVJG+86)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVJG+86",
+    "lat_lng": [
+      6.930753,
+      79.875591
+    ]
+  },
+  "Bus Stop (6JRXWVP8+JH)": {
+    "stop_id": "Bus Stop (6JRXWVP8+JH)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVP8+JH",
+    "lat_lng": [
+      6.936545,
+      79.866418
+    ]
+  },
+  "Bus Stop (6JRXWVV4+V8)": {
+    "stop_id": "Bus Stop (6JRXWVV4+V8)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVV4+V8",
+    "lat_lng": [
+      6.944723,
+      79.855778
+    ]
+  },
+  "Bus Stop (6JRXWVX4+8M)": {
+    "stop_id": "Bus Stop (6JRXWVX4+8M)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVX4+8M",
+    "lat_lng": [
+      6.948265,
+      79.856737
+    ]
+  },
+  "Bus Stop (6JRXWVX5+V7)": {
+    "stop_id": "Bus Stop (6JRXWVX5+V7)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWVX5+V7",
+    "lat_lng": [
+      6.949671,
+      79.858168
+    ]
+  },
+  "Bus Stop (6JRXWW43+9W)": {
+    "stop_id": "Bus Stop (6JRXWW43+9W)",
+    "name": "Bus Stop",
+    "global_code": "6JRXWW43+9W",
+    "lat_lng": [
+      6.905929,
+      79.904822
+    ]
+  },
+  "Bus Stop (6JRXXV46+JH)": {
+    "stop_id": "Bus Stop (6JRXXV46+JH)",
+    "name": "Bus Stop",
+    "global_code": "6JRXXV46+JH",
+    "lat_lng": [
+      6.956597,
+      79.861491
+    ]
+  },
+  "Bus Stop (6JRXXV57+76)": {
+    "stop_id": "Bus Stop (6JRXXV57+76)",
+    "name": "Bus Stop",
+    "global_code": "6JRXXV57+76",
+    "lat_lng": [
+      6.958142,
+      79.863013
+    ]
+  },
+  "Bus Stop (6JRXXV68+32)": {
+    "stop_id": "Bus Stop (6JRXXV68+32)",
+    "name": "Bus Stop",
+    "global_code": "6JRXXV68+32",
+    "lat_lng": [
+      6.960125,
+      79.865095
+    ]
+  },
+  "Bus Stop (6JRXXV79+54)": {
+    "stop_id": "Bus Stop (6JRXXV79+54)",
+    "name": "Bus Stop",
+    "global_code": "6JRXXV79+54",
+    "lat_lng": [
+      6.962929,
+      79.867795
+    ]
+  },
+  "Bus Stop (6JRXXV8C+F8)": {
+    "stop_id": "Bus Stop (6JRXXV8C+F8)",
+    "name": "Bus Stop",
+    "global_code": "6JRXXV8C+F8",
+    "lat_lng": [
+      6.966177,
+      79.870803
+    ]
+  },
+  "Bus Stop Kohuwala (6JRXVV8P+W2)": {
+    "stop_id": "Bus Stop Kohuwala (6JRXVV8P+W2)",
+    "name": "Bus Stop Kohuwala",
+    "global_code": "6JRXVV8P+W2",
+    "lat_lng": [
+      6.867348,
+      79.885097
+    ]
+  },
+  "Bus Stop Nugegoda (6JRXVVHV+29)": {
+    "stop_id": "Bus Stop Nugegoda (6JRXVVHV+29)",
+    "name": "Bus Stop Nugegoda",
+    "global_code": "6JRXVVHV+29",
+    "lat_lng": [
+      6.877529,
+      79.893394
+    ]
+  },
+  "Campus Bus Stop (6JRXWV25+6Q)": {
+    "stop_id": "Campus Bus Stop (6JRXWV25+6Q)",
+    "name": "Campus Bus Stop",
+    "global_code": "6JRXWV25+6Q",
+    "lat_lng": [
+      6.90054,
+      79.859413
+    ]
+  },
+  "Campus Bus Stop (6JRXWV36+3W)": {
+    "stop_id": "Campus Bus Stop (6JRXWV36+3W)",
+    "name": "Campus Bus Stop",
+    "global_code": "6JRXWV36+3W",
+    "lat_lng": [
+      6.902667,
+      79.862278
+    ]
+  },
+  "Carey College Bus Stop (6JRXWV9C+88)": {
+    "stop_id": "Carey College Bus Stop (6JRXWV9C+88)",
+    "name": "Carey College Bus Stop",
+    "global_code": "6JRXWV9C+88",
+    "lat_lng": [
+      6.918363,
+      79.870797
+    ]
+  },
+  "Castle Street Bus Stop (6JRXWV6M+CX)": {
+    "stop_id": "Castle Street Bus Stop (6JRXWV6M+CX)",
+    "name": "Castle Street Bus Stop",
+    "global_code": "6JRXWV6M+CX",
+    "lat_lng": [
+      6.91104,
+      79.884969
+    ]
+  },
+  "Cinnamon Lakeside Bus Stop (6JRXWRHX+4P)": {
+    "stop_id": "Cinnamon Lakeside Bus Stop (6JRXWRHX+4P)",
+    "name": "Cinnamon Lakeside Bus Stop",
+    "global_code": "6JRXWRHX+4P",
+    "lat_lng": [
+      6.927762,
+      79.849327
+    ]
+  },
+  "Cinnamon Lakeside Bus Stop (6JRXWRHX+CF)": {
+    "stop_id": "Cinnamon Lakeside Bus Stop (6JRXWRHX+CF)",
+    "name": "Cinnamon Lakeside Bus Stop",
+    "global_code": "6JRXWRHX+CF",
+    "lat_lng": [
+      6.928529,
+      79.848652
+    ]
+  },
+  "Cinnamon Lakeside Bus Stop (6JRXWRHX+FG)": {
+    "stop_id": "Cinnamon Lakeside Bus Stop (6JRXWRHX+FG)",
+    "name": "Cinnamon Lakeside Bus Stop",
+    "global_code": "6JRXWRHX+FG",
+    "lat_lng": [
+      6.928637,
+      79.848797
+    ]
+  },
+  "Colombo (6JRXWVP3+2R)": {
+    "stop_id": "Colombo (6JRXWVP3+2R)",
+    "name": "Colombo",
+    "global_code": "6JRXWVP3+2R",
+    "lat_lng": [
+      6.934402,
+      79.854617
+    ]
+  },
+  "Colombo Central Bus Stand (6JRXWVM4+FG)": {
+    "stop_id": "Colombo Central Bus Stand (6JRXWVM4+FG)",
+    "name": "Colombo Central Bus Stand",
+    "global_code": "6JRXWVM4+FG",
+    "lat_lng": [
+      6.933735,
+      79.856275
+    ]
+  },
+  "Cotta Rd and Ruhunukala Mawatha Bus Station (6JRXWV7M+G6)": {
+    "stop_id": "Cotta Rd and Ruhunukala Mawatha Bus Station (6JRXWV7M+G6)",
+    "name": "Cotta Rd and Ruhunukala Mawatha Bus Station",
+    "global_code": "6JRXWV7M+G6",
+    "lat_lng": [
+      6.913779,
+      79.883028
+    ]
+  },
+  "Cotta Road Railway Bus Stop (6JRXWV7M+5V)": {
+    "stop_id": "Cotta Road Railway Bus Stop (6JRXWV7M+5V)",
+    "name": "Cotta Road Railway Bus Stop",
+    "global_code": "6JRXWV7M+5V",
+    "lat_lng": [
+      6.912923,
+      79.88472
+    ]
+  },
+  "Crescat Bus Stop (6JRXWR8X+X3)": {
+    "stop_id": "Crescat Bus Stop (6JRXWR8X+X3)",
+    "name": "Crescat Bus Stop",
+    "global_code": "6JRXWR8X+X3",
+    "lat_lng": [
+      6.917469,
+      79.84775
+    ]
+  },
+  "Dematagoda Junction Bus Stop (6JRXWVJG+7Q)": {
+    "stop_id": "Dematagoda Junction Bus Stop (6JRXWVJG+7Q)",
+    "name": "Dematagoda Junction Bus Stop",
+    "global_code": "6JRXWVJG+7Q",
+    "lat_lng": [
+      6.930683,
+      79.876971
+    ]
+  },
+  "Dematagoda Junction Bus Stop (6JRXWVJH+Q7)": {
+    "stop_id": "Dematagoda Junction Bus Stop (6JRXWVJH+Q7)",
+    "name": "Dematagoda Junction Bus Stop",
+    "global_code": "6JRXWVJH+Q7",
+    "lat_lng": [
+      6.931972,
+      79.878152
+    ]
+  },
+  "Dematagoda Market Bus Stop (6JRXWVHH+R6)": {
+    "stop_id": "Dematagoda Market Bus Stop (6JRXWVHH+R6)",
+    "name": "Dematagoda Market Bus Stop",
+    "global_code": "6JRXWVHH+R6",
+    "lat_lng": [
+      6.929609,
+      79.878073
+    ]
+  },
+  "Dematagoda Railway Bus Stop (6JRXWVQH+29)": {
+    "stop_id": "Dematagoda Railway Bus Stop (6JRXWVQH+29)",
+    "name": "Dematagoda Railway Bus Stop",
+    "global_code": "6JRXWVQH+29",
+    "lat_lng": [
+      6.937548,
+      79.878421
+    ]
+  },
+  "Dematagoda Railway Bus Stop (6JRXWVQH+J9)": {
+    "stop_id": "Dematagoda Railway Bus Stop (6JRXWVQH+J9)",
+    "name": "Dematagoda Railway Bus Stop",
+    "global_code": "6JRXWVQH+J9",
+    "lat_lng": [
+      6.9391,
+      79.878428
+    ]
+  },
+  "Dharmapala Mawatha Bus Stop (6JRXWV73+3H)": {
+    "stop_id": "Dharmapala Mawatha Bus Stop (6JRXWV73+3H)",
+    "name": "Dharmapala Mawatha Bus Stop",
+    "global_code": "6JRXWV73+3H",
+    "lat_lng": [
+      6.91264,
+      79.853877
+    ]
+  },
+  "Dr Lester James Peries Mawatha Bus Stop (6JRXVVP5+JX)": {
+    "stop_id": "Dr Lester James Peries Mawatha Bus Stop (6JRXVVP5+JX)",
+    "name": "Dr Lester James Peries Mawatha Bus Stop",
+    "global_code": "6JRXVVP5+JX",
+    "lat_lng": [
+      6.88661,
+      79.859901
+    ]
+  },
+  "Dsl Roundabout Bus Stop (6JRXWVM8+C9)": {
+    "stop_id": "Dsl Roundabout Bus Stop (6JRXWVM8+C9)",
+    "name": "Dsl Roundabout Bus Stop",
+    "global_code": "6JRXWVM8+C9",
+    "lat_lng": [
+      6.933616,
+      79.865997
+    ]
+  },
+  "Dsl Roundabout Bus Stop (6JRXWVM8+J3)": {
+    "stop_id": "Dsl Roundabout Bus Stop (6JRXWVM8+J3)",
+    "name": "Dsl Roundabout Bus Stop",
+    "global_code": "6JRXWVM8+J3",
+    "lat_lng": [
+      6.934073,
+      79.865191
+    ]
+  },
+  "Elphinston Maradana (6JRXWVH7+QV)": {
+    "stop_id": "Elphinston Maradana (6JRXWVH7+QV)",
+    "name": "Elphinston Maradana",
+    "global_code": "6JRXWVH7+QV",
+    "lat_lng": [
+      6.929431,
+      79.864642
+    ]
+  },
+  "Elphinstone Bus Stop (6JRXWVH7+PP)": {
+    "stop_id": "Elphinstone Bus Stop (6JRXWVH7+PP)",
+    "name": "Elphinstone Bus Stop",
+    "global_code": "6JRXWVH7+PP",
+    "lat_lng": [
+      6.929353,
+      79.864377
+    ]
+  },
+  "Ethulkotte (6JRXWW24+78)": {
+    "stop_id": "Ethulkotte (6JRXWW24+78)",
+    "name": "Ethulkotte",
+    "global_code": "6JRXWW24+78",
+    "lat_lng": [
+      6.900697,
+      79.905764
+    ]
+  },
+  "Etul Kotte Junction Bus Stop (6JRXWW24+R7)": {
+    "stop_id": "Etul Kotte Junction Bus Stop (6JRXWW24+R7)",
+    "name": "Etul Kotte Junction Bus Stop",
+    "global_code": "6JRXWW24+R7",
+    "lat_lng": [
+      6.902112,
+      79.905663
+    ]
+  },
+  "Eye Hospital Bus Stop (6JRXWV97+6X)": {
+    "stop_id": "Eye Hospital Bus Stop (6JRXWV97+6X)",
+    "name": "Eye Hospital Bus Stop",
+    "global_code": "6JRXWV97+6X",
+    "lat_lng": [
+      6.91801,
+      79.864984
+    ]
+  },
+  "Fire Brigade (6JRXWVF6+6R)": {
+    "stop_id": "Fire Brigade (6JRXWVF6+6R)",
+    "name": "Fire Brigade",
+    "global_code": "6JRXWVF6+6R",
+    "lat_lng": [
+      6.92309,
+      79.862079
+    ]
+  },
+  "Fort York Street Bus Stop (6JRXWRPW+32)": {
+    "stop_id": "Fort York Street Bus Stop (6JRXWRPW+32)",
+    "name": "Fort York Street Bus Stop",
+    "global_code": "6JRXWRPW+32",
+    "lat_lng": [
+      6.935131,
+      79.845025
+    ]
+  },
+  "Galadari Hotel Bus Stop (6JRXWRJW+J4)": {
+    "stop_id": "Galadari Hotel Bus Stop (6JRXWRJW+J4)",
+    "name": "Galadari Hotel Bus Stop",
+    "global_code": "6JRXWRJW+J4",
+    "lat_lng": [
+      6.931602,
+      79.845352
+    ]
+  },
+  "Galle Face (6JRXWRCW+RF)": {
+    "stop_id": "Galle Face (6JRXWRCW+RF)",
+    "name": "Galle Face",
+    "global_code": "6JRXWRCW+RF",
+    "lat_lng": [
+      6.922102,
+      79.846169
+    ]
+  },
+  "Galle Face Hotel Bus Stop (6JRXWRCW+2P)": {
+    "stop_id": "Galle Face Hotel Bus Stop (6JRXWRCW+2P)",
+    "name": "Galle Face Hotel Bus Stop",
+    "global_code": "6JRXWRCW+2P",
+    "lat_lng": [
+      6.920058,
+      79.846863
+    ]
+  },
+  "Galle Face Roundabout Bus Stop (6JRXWRJR+7W)": {
+    "stop_id": "Galle Face Roundabout Bus Stop (6JRXWRJR+7W)",
+    "name": "Galle Face Roundabout Bus Stop",
+    "global_code": "6JRXWRJR+7W",
+    "lat_lng": [
+      6.930738,
+      79.842343
+    ]
+  },
+  "Gangarama Bus Stop (6JRXWV93+HG)": {
+    "stop_id": "Gangarama Bus Stop (6JRXWV93+HG)",
+    "name": "Gangarama Bus Stop",
+    "global_code": "6JRXWV93+HG",
+    "lat_lng": [
+      6.918997,
+      79.853796
+    ]
+  },
+  "Gangaramaya Temple Bus Stop (6JRXWV84+79)": {
+    "stop_id": "Gangaramaya Temple Bus Stop (6JRXWV84+79)",
+    "name": "Gangaramaya Temple Bus Stop",
+    "global_code": "6JRXWV84+79",
+    "lat_lng": [
+      6.915622,
+      79.855934
+    ]
+  },
+  "Glass House (6JRXWV55+VW)": {
+    "stop_id": "Glass House (6JRXWV55+VW)",
+    "name": "Glass House",
+    "global_code": "6JRXWV55+VW",
+    "lat_lng": [
+      6.909674,
+      79.859794
+    ]
+  },
+  "Glass House Bus Stop (6JRXWV55+RV)": {
+    "stop_id": "Glass House Bus Stop (6JRXWV55+RV)",
+    "name": "Glass House Bus Stop",
+    "global_code": "6JRXWV55+RV",
+    "lat_lng": [
+      6.909542,
+      79.85974
+    ]
+  },
+  "Gold Market Bus Stop (6JRXWVQ2+WV)": {
+    "stop_id": "Gold Market Bus Stop (6JRXWVQ2+WV)",
+    "name": "Gold Market Bus Stop",
+    "global_code": "6JRXWVQ2+WV",
+    "lat_lng": [
+      6.939827,
+      79.852174
+    ]
+  },
+  "Gold Market Bus Stop (6JRXWVR3+GC)": {
+    "stop_id": "Gold Market Bus Stop (6JRXWVR3+GC)",
+    "name": "Gold Market Bus Stop",
+    "global_code": "6JRXWVR3+GC",
+    "lat_lng": [
+      6.9413,
+      79.853535
+    ]
+  },
+  "Golden Key Hospital Bus Stop (6JRXWV6Q+9M)": {
+    "stop_id": "Golden Key Hospital Bus Stop (6JRXWV6Q+9M)",
+    "name": "Golden Key Hospital Bus Stop",
+    "global_code": "6JRXWV6Q+9M",
+    "lat_lng": [
+      6.910881,
+      79.889227
+    ]
+  },
+  "HSBC Bus Stop (6JRXWW42+MP)": {
+    "stop_id": "HSBC Bus Stop (6JRXWW42+MP)",
+    "name": "HSBC Bus Stop",
+    "global_code": "6JRXWW42+MP",
+    "lat_lng": [
+      6.906711,
+      79.902073
+    ]
+  },
+  "Havelock City (6JRXVVM9+5H)": {
+    "stop_id": "Havelock City (6JRXVVM9+5H)",
+    "name": "Havelock City",
+    "global_code": "6JRXVVM9+5H",
+    "lat_lng": [
+      6.88294,
+      79.868909
+    ]
+  },
+  "Havelock City (6JRXVVM9+5J)": {
+    "stop_id": "Havelock City (6JRXVVM9+5J)",
+    "name": "Havelock City",
+    "global_code": "6JRXVVM9+5J",
+    "lat_lng": [
+      6.882908,
+      79.869001
+    ]
+  },
+  "Hindu College Colombo (6JRXVVM6+P7)": {
+    "stop_id": "Hindu College Colombo (6JRXVVM6+P7)",
+    "name": "Hindu College Colombo",
+    "global_code": "6JRXVVM6+P7",
+    "lat_lng": [
+      6.884322,
+      79.860689
+    ]
+  },
+  "House Of Fashion Bus Stop (6JRXWV6G+HP)": {
+    "stop_id": "House Of Fashion Bus Stop (6JRXWV6G+HP)",
+    "name": "House Of Fashion Bus Stop",
+    "global_code": "6JRXWV6G+HP",
+    "lat_lng": [
+      6.911391,
+      79.876834
+    ]
+  },
+  "House Of Fashion Bus Stop (6JRXWV6H+52)": {
+    "stop_id": "House Of Fashion Bus Stop (6JRXWV6H+52)",
+    "name": "House Of Fashion Bus Stop",
+    "global_code": "6JRXWV6H+52",
+    "lat_lng": [
+      6.910439,
+      79.877499
+    ]
+  },
+  "Hyde Park Bus Stop (6JRXWV95+RQ)": {
+    "stop_id": "Hyde Park Bus Stop (6JRXWV95+RQ)",
+    "name": "Hyde Park Bus Stop",
+    "global_code": "6JRXWV95+RQ",
+    "lat_lng": [
+      6.919588,
+      79.85944
+    ]
+  },
+  "Hyde Park Bus Stop (6JRXWV95+VR)": {
+    "stop_id": "Hyde Park Bus Stop (6JRXWV95+VR)",
+    "name": "Hyde Park Bus Stop",
+    "global_code": "6JRXWV95+VR",
+    "lat_lng": [
+      6.919661,
+      79.859519
+    ]
+  },
+  "Ias (6JRXVVHC+JG)": {
+    "stop_id": "Ias (6JRXVVHC+JG)",
+    "name": "Ias",
+    "global_code": "6JRXVVHC+JG",
+    "lat_lng": [
+      6.879083,
+      79.871263
+    ]
+  },
+  "Ias Stop (6JRXVVHC+JF)": {
+    "stop_id": "Ias Stop (6JRXVVHC+JF)",
+    "name": "Ias Stop",
+    "global_code": "6JRXVVHC+JF",
+    "lat_lng": [
+      6.879058,
+      79.87119
+    ]
+  },
+  "Ibbanwala (6JRXWV96+HM)": {
+    "stop_id": "Ibbanwala (6JRXWV96+HM)",
+    "name": "Ibbanwala",
+    "global_code": "6JRXWV96+HM",
+    "lat_lng": [
+      6.918953,
+      79.861661
+    ]
+  },
+  "Ibbanwala Junction Bus Stop (6JRXWV97+62)": {
+    "stop_id": "Ibbanwala Junction Bus Stop (6JRXWV97+62)",
+    "name": "Ibbanwala Junction Bus Stop",
+    "global_code": "6JRXWV97+62",
+    "lat_lng": [
+      6.918081,
+      79.862515
+    ]
+  },
+  "Ibbanwala Junction Bus Stop (6JRXWV97+72)": {
+    "stop_id": "Ibbanwala Junction Bus Stop (6JRXWV97+72)",
+    "name": "Ibbanwala Junction Bus Stop",
+    "global_code": "6JRXWV97+72",
+    "lat_lng": [
+      6.91821,
+      79.86258
+    ]
+  },
+  "Isipathana (6JRXVVP7+WR)": {
+    "stop_id": "Isipathana (6JRXVVP7+WR)",
+    "name": "Isipathana",
+    "global_code": "6JRXVVP7+WR",
+    "lat_lng": [
+      6.887358,
+      79.864559
+    ]
+  },
+  "Isipathana (6JRXVVP7+XV)": {
+    "stop_id": "Isipathana (6JRXVVP7+XV)",
+    "name": "Isipathana",
+    "global_code": "6JRXVVP7+XV",
+    "lat_lng": [
+      6.887375,
+      79.864662
+    ]
+  },
+  "Isipathana / Thimbirigasyaya Bus Stop (6JRXVVQ7+MJ)": {
+    "stop_id": "Isipathana / Thimbirigasyaya Bus Stop (6JRXVVQ7+MJ)",
+    "name": "Isipathana / Thimbirigasyaya Bus Stop",
+    "global_code": "6JRXVVQ7+MJ",
+    "lat_lng": [
+      6.889189,
+      79.864125
+    ]
+  },
+  "Isipathana / Thimbirigasyaya Bus Stop (6JRXVVR7+3F)": {
+    "stop_id": "Isipathana / Thimbirigasyaya Bus Stop (6JRXVVR7+3F)",
+    "name": "Isipathana / Thimbirigasyaya Bus Stop",
+    "global_code": "6JRXVVR7+3F",
+    "lat_lng": [
+      6.890183,
+      79.863734
+    ]
+  },
+  "Janadipathi Prathamika Bus Stop (6JRXVVVQ+7Q)": {
+    "stop_id": "Janadipathi Prathamika Bus Stop (6JRXVVVQ+7Q)",
+    "name": "Janadipathi Prathamika Bus Stop",
+    "global_code": "6JRXVVVQ+7Q",
+    "lat_lng": [
+      6.893243,
+      79.88941
+    ]
+  },
+  "Jawatte Bus Stop (6JRXVVX8+X4)": {
+    "stop_id": "Jawatte Bus Stop (6JRXVVX8+X4)",
+    "name": "Jawatte Bus Stop",
+    "global_code": "6JRXVVX8+X4",
+    "lat_lng": [
+      6.899913,
+      79.865304
+    ]
+  },
+  "John (6JRXVVCP+8G)": {
+    "stop_id": "John (6JRXVVCP+8G)",
+    "name": "John",
+    "global_code": "6JRXVVCP+8G",
+    "lat_lng": [
+      6.870788,
+      79.886302
+    ]
+  },
+  "John (6JRXVVCP+9G)": {
+    "stop_id": "John (6JRXVVCP+9G)",
+    "name": "John",
+    "global_code": "6JRXVVCP+9G",
+    "lat_lng": [
+      6.870904,
+      79.886272
+    ]
+  },
+  "Jubilee Post Bus Stop (6JRXVWG2+93)": {
+    "stop_id": "Jubilee Post Bus Stop (6JRXVWG2+93)",
+    "name": "Jubilee Post Bus Stop",
+    "global_code": "6JRXVWG2+93",
+    "lat_lng": [
+      6.875974,
+      79.900188
+    ]
+  },
+  "Jubilee Post Bus Stop (6JRXVWG2+M6)": {
+    "stop_id": "Jubilee Post Bus Stop (6JRXVWG2+M6)",
+    "name": "Jubilee Post Bus Stop",
+    "global_code": "6JRXVWG2+M6",
+    "lat_lng": [
+      6.876635,
+      79.900559
+    ]
+  },
+  "Kalubowila (6JRXVV8G+HJ)": {
+    "stop_id": "Kalubowila (6JRXVV8G+HJ)",
+    "name": "Kalubowila",
+    "global_code": "6JRXVV8G+HJ",
+    "lat_lng": [
+      6.866428,
+      79.876517
+    ]
+  },
+  "Kettarama (6JRXWVQF+4R)": {
+    "stop_id": "Kettarama (6JRXWVQF+4R)",
+    "name": "Kettarama",
+    "global_code": "6JRXWVQF+4R",
+    "lat_lng": [
+      6.937789,
+      79.874543
+    ]
+  },
+  "Kettarama Bus Stop (6JRXWVQF+3Q)": {
+    "stop_id": "Kettarama Bus Stop (6JRXWVQF+3Q)",
+    "name": "Kettarama Bus Stop",
+    "global_code": "6JRXWVQF+3Q",
+    "lat_lng": [
+      6.93767,
+      79.874393
+    ]
+  },
+  "Kirimandala Mawatha Bus Stop (6JRXVVWQ+2R)": {
+    "stop_id": "Kirimandala Mawatha Bus Stop (6JRXVVWQ+2R)",
+    "name": "Kirimandala Mawatha Bus Stop",
+    "global_code": "6JRXVVWQ+2R",
+    "lat_lng": [
+      6.895054,
+      79.889602
+    ]
+  },
+  "Kirulapone (6JRXVVHF+FC)": {
+    "stop_id": "Kirulapone (6JRXVVHF+FC)",
+    "name": "Kirulapone",
+    "global_code": "6JRXVVHF+FC",
+    "lat_lng": [
+      6.87874,
+      79.873505
+    ]
+  },
+  "Kirulapone Bus Stop (6JRXVVHF+CV)": {
+    "stop_id": "Kirulapone Bus Stop (6JRXVVHF+CV)",
+    "name": "Kirulapone Bus Stop",
+    "global_code": "6JRXVVHF+CV",
+    "lat_lng": [
+      6.878556,
+      79.874719
+    ]
+  },
+  "Kirulapone Bus Stop (6JRXVVHG+C5)": {
+    "stop_id": "Kirulapone Bus Stop (6JRXVVHG+C5)",
+    "name": "Kirulapone Bus Stop",
+    "global_code": "6JRXVVHG+C5",
+    "lat_lng": [
+      6.878551,
+      79.87548
+    ]
+  },
+  "Kochikade Bus Stop (6JRXWVW4+GH)": {
+    "stop_id": "Kochikade Bus Stop (6JRXWVW4+GH)",
+    "name": "Kochikade Bus Stop",
+    "global_code": "6JRXWVW4+GH",
+    "lat_lng": [
+      6.946307,
+      79.856418
+    ]
+  },
+  "Kohuwala Bus Stand (6JRXVV9M+89)": {
+    "stop_id": "Kohuwala Bus Stand (6JRXVV9M+89)",
+    "name": "Kohuwala Bus Stand",
+    "global_code": "6JRXVV9M+89",
+    "lat_lng": [
+      6.86834,
+      79.883426
+    ]
+  },
+  "Kohuwala Bus Stop (6JRXVV9M+4J)": {
+    "stop_id": "Kohuwala Bus Stop (6JRXVV9M+4J)",
+    "name": "Kohuwala Bus Stop",
+    "global_code": "6JRXVV9M+4J",
+    "lat_lng": [
+      6.867785,
+      79.884119
+    ]
+  },
+  "Kohuwala Bus Stop (6JRXVV9M+6H)": {
+    "stop_id": "Kohuwala Bus Stop (6JRXVV9M+6H)",
+    "name": "Kohuwala Bus Stop",
+    "global_code": "6JRXVV9M+6H",
+    "lat_lng": [
+      6.868034,
+      79.883914
+    ]
+  },
+  "Kollupitiya Supermarket Bus Station (6JRXWV62+R7)": {
+    "stop_id": "Kollupitiya Supermarket Bus Station (6JRXWV62+R7)",
+    "name": "Kollupitiya Supermarket Bus Station",
+    "global_code": "6JRXWV62+R7",
+    "lat_lng": [
+      6.911998,
+      79.85064
+    ]
+  },
+  "Kotahena Junction Bus Stop (6JRXWVW7+M4)": {
+    "stop_id": "Kotahena Junction Bus Stop (6JRXWVW7+M4)",
+    "name": "Kotahena Junction Bus Stop",
+    "global_code": "6JRXWVW7+M4",
+    "lat_lng": [
+      6.94666,
+      79.862848
+    ]
+  },
+  "Lady Ridgeway Children Hospital Bus Stop (6JRXWV8H+M4)": {
+    "stop_id": "Lady Ridgeway Children Hospital Bus Stop (6JRXWV8H+M4)",
+    "name": "Lady Ridgeway Children Hospital Bus Stop",
+    "global_code": "6JRXWV8H+M4",
+    "lat_lng": [
+      6.916719,
+      79.877821
+    ]
+  },
+  "Lady Ridgeway Children Hospital Bus Stop (6JRXWV9H+43)": {
+    "stop_id": "Lady Ridgeway Children Hospital Bus Stop (6JRXWV9H+43)",
+    "name": "Lady Ridgeway Children Hospital Bus Stop",
+    "global_code": "6JRXWV9H+43",
+    "lat_lng": [
+      6.917788,
+      79.877736
+    ]
+  },
+  "Liberty (6JRXWV52+XW)": {
+    "stop_id": "Liberty (6JRXWV52+XW)",
+    "name": "Liberty",
+    "global_code": "6JRXWV52+XW",
+    "lat_lng": [
+      6.910044,
+      79.852264
+    ]
+  },
+  "Liberty Bus Stop (6JRXWV52+XW)": {
+    "stop_id": "Liberty Bus Stop (6JRXWV52+XW)",
+    "name": "Liberty Bus Stop",
+    "global_code": "6JRXWV52+XW",
+    "lat_lng": [
+      6.90993,
+      79.852293
+    ]
+  },
+  "Lionel Wendt Bus Stop (6JRXWV45+PW)": {
+    "stop_id": "Lionel Wendt Bus Stop (6JRXWV45+PW)",
+    "name": "Lionel Wendt Bus Stop",
+    "global_code": "6JRXWV45+PW",
+    "lat_lng": [
+      6.906881,
+      79.859742
+    ]
+  },
+  "Lumbini (6JRXVVM9+P3)": {
+    "stop_id": "Lumbini (6JRXVVM9+P3)",
+    "name": "Lumbini",
+    "global_code": "6JRXVVM9+P3",
+    "lat_lng": [
+      6.884361,
+      79.867695
+    ]
+  },
+  "Lumbini (6JRXVVM9+Q3)": {
+    "stop_id": "Lumbini (6JRXVVM9+Q3)",
+    "name": "Lumbini",
+    "global_code": "6JRXVVM9+Q3",
+    "lat_lng": [
+      6.884384,
+      79.867746
+    ]
+  },
+  "Mahanama Bus Stop (6JRXWV43+7F)": {
+    "stop_id": "Mahanama Bus Stop (6JRXWV43+7F)",
+    "name": "Mahanama Bus Stop",
+    "global_code": "6JRXWV43+7F",
+    "lat_lng": [
+      6.905737,
+      79.853647
+    ]
+  },
+  "Main Street Bus Stop (6JRXWRQX+3R)": {
+    "stop_id": "Main Street Bus Stop (6JRXWRQX+3R)",
+    "name": "Main Street Bus Stop",
+    "global_code": "6JRXWRQX+3R",
+    "lat_lng": [
+      6.937663,
+      79.849622
+    ]
+  },
+  "Maligatta Cemetery Bus Stop (6JRXWVQG+P8)": {
+    "stop_id": "Maligatta Cemetery Bus Stop (6JRXWVQG+P8)",
+    "name": "Maligatta Cemetery Bus Stop",
+    "global_code": "6JRXWVQG+P8",
+    "lat_lng": [
+      6.939343,
+      79.875805
+    ]
+  },
+  "Maligawatta (6JRXWVPF+96)": {
+    "stop_id": "Maligawatta (6JRXWVPF+96)",
+    "name": "Maligawatta",
+    "global_code": "6JRXWVPF+96",
+    "lat_lng": [
+      6.935931,
+      79.873011
+    ]
+  },
+  "Maligawatta Ruby Cinema (6JRXWVJ9+CR)": {
+    "stop_id": "Maligawatta Ruby Cinema (6JRXWVJ9+CR)",
+    "name": "Maligawatta Ruby Cinema",
+    "global_code": "6JRXWVJ9+CR",
+    "lat_lng": [
+      6.93108,
+      79.86953
+    ]
+  },
+  "Mangala (6JRXVV96+MX)": {
+    "stop_id": "Mangala (6JRXVV96+MX)",
+    "name": "Mangala",
+    "global_code": "6JRXVV96+MX",
+    "lat_lng": [
+      6.869239,
+      79.862414
+    ]
+  },
+  "Maradana Bus Stop (6JRXWVH7+VW)": {
+    "stop_id": "Maradana Bus Stop (6JRXWVH7+VW)",
+    "name": "Maradana Bus Stop",
+    "global_code": "6JRXWVH7+VW",
+    "lat_lng": [
+      6.929694,
+      79.86478
+    ]
+  },
+  "Maradana Police Bus Stop (6JRXWVG8+P9)": {
+    "stop_id": "Maradana Police Bus Stop (6JRXWVG8+P9)",
+    "name": "Maradana Police Bus Stop",
+    "global_code": "6JRXWVG8+P9",
+    "lat_lng": [
+      6.926777,
+      79.865966
+    ]
+  },
+  "Maradana Police Bus Stop (6JRXWVH8+43)": {
+    "stop_id": "Maradana Police Bus Stop (6JRXWVH8+43)",
+    "name": "Maradana Police Bus Stop",
+    "global_code": "6JRXWVH8+43",
+    "lat_lng": [
+      6.92781,
+      79.86523
+    ]
+  },
+  "Meda Kolamba (6JRXWVMC+5R)": {
+    "stop_id": "Meda Kolamba (6JRXWVMC+5R)",
+    "name": "Meda Kolamba",
+    "global_code": "6JRXWVMC+5R",
+    "lat_lng": [
+      6.932943,
+      79.872029
+    ]
+  },
+  "Meda Kolamba Bus Stop (6JRXWVMC+JP)": {
+    "stop_id": "Meda Kolamba Bus Stop (6JRXWVMC+JP)",
+    "name": "Meda Kolamba Bus Stop",
+    "global_code": "6JRXWVMC+JP",
+    "lat_lng": [
+      6.934097,
+      79.871844
+    ]
+  },
+  "Millenium Road (6JRXVV67+9M)": {
+    "stop_id": "Millenium Road (6JRXVV67+9M)",
+    "name": "Millenium Road",
+    "global_code": "6JRXVV67+9M",
+    "lat_lng": [
+      6.861131,
+      79.864377
+    ]
+  },
+  "Ministry Of Defence (6JRXWRHV+V3)": {
+    "stop_id": "Ministry Of Defence (6JRXWRHV+V3)",
+    "name": "Ministry Of Defence",
+    "global_code": "6JRXWRHV+V3",
+    "lat_lng": [
+      6.929692,
+      79.842734
+    ]
+  },
+  "Mount Mary Bus Stop (6JRXWVGH+F5)": {
+    "stop_id": "Mount Mary Bus Stop (6JRXWVGH+F5)",
+    "name": "Mount Mary Bus Stop",
+    "global_code": "6JRXWVGH+F5",
+    "lat_lng": [
+      6.926203,
+      79.877981
+    ]
+  },
+  "Nalanda College Bus Stop (6JRXWVGF+2X)": {
+    "stop_id": "Nalanda College Bus Stop (6JRXWVGF+2X)",
+    "name": "Nalanda College Bus Stop",
+    "global_code": "6JRXWVGF+2X",
+    "lat_lng": [
+      6.925028,
+      79.874988
+    ]
+  },
+  "Nalanda College Bus Stop (6JRXWVGG+42)": {
+    "stop_id": "Nalanda College Bus Stop (6JRXWVGG+42)",
+    "name": "Nalanda College Bus Stop",
+    "global_code": "6JRXWVGG+42",
+    "lat_lng": [
+      6.925341,
+      79.875058
+    ]
+  },
+  "Narahenpita Police Garage Bus Stop (6JRXVVXG+FV)": {
+    "stop_id": "Narahenpita Police Garage Bus Stop (6JRXVVXG+FV)",
+    "name": "Narahenpita Police Garage Bus Stop",
+    "global_code": "6JRXVVXG+FV",
+    "lat_lng": [
+      6.898631,
+      79.877183
+    ]
+  },
+  "Narahenpita Railway Bus Stop (6JRXVVWG+HV)": {
+    "stop_id": "Narahenpita Railway Bus Stop (6JRXVVWG+HV)",
+    "name": "Narahenpita Railway Bus Stop",
+    "global_code": "6JRXVVWG+HV",
+    "lat_lng": [
+      6.896479,
+      79.877239
+    ]
+  },
+  "Nawala Junction Bus Stop (6JRXVVPP+GV)": {
+    "stop_id": "Nawala Junction Bus Stop (6JRXVVPP+GV)",
+    "name": "Nawala Junction Bus Stop",
+    "global_code": "6JRXVVPP+GV",
+    "lat_lng": [
+      6.886254,
+      79.887166
+    ]
+  },
+  "Nawaloka Bus Stop (6JRXWVC3+F6)": {
+    "stop_id": "Nawaloka Bus Stop (6JRXWVC3+F6)",
+    "name": "Nawaloka Bus Stop",
+    "global_code": "6JRXWVC3+F6",
+    "lat_lng": [
+      6.921166,
+      79.85302
+    ]
+  },
+  "Nawaloka Bus Stop (6JRXWVC3+Q6)": {
+    "stop_id": "Nawaloka Bus Stop (6JRXWVC3+Q6)",
+    "name": "Nawaloka Bus Stop",
+    "global_code": "6JRXWVC3+Q6",
+    "lat_lng": [
+      6.92217,
+      79.852731
+    ]
+  },
+  "Ndb Dharmapala Mawatha Bus Stop (6JRXWV74+8R)": {
+    "stop_id": "Ndb Dharmapala Mawatha Bus Stop (6JRXWV74+8R)",
+    "name": "Ndb Dharmapala Mawatha Bus Stop",
+    "global_code": "6JRXWV74+8R",
+    "lat_lng": [
+      6.913275,
+      79.857015
+    ]
+  },
+  "Ndb Dharmapala Mawatha Bus Stop (6JRXWV74+8V)": {
+    "stop_id": "Ndb Dharmapala Mawatha Bus Stop (6JRXWV74+8V)",
+    "name": "Ndb Dharmapala Mawatha Bus Stop",
+    "global_code": "6JRXWV74+8V",
+    "lat_lng": [
+      6.91336,
+      79.85713
+    ]
+  },
+  "Nelum Pokuna Bus Stop (6JRXWV67+3C)": {
+    "stop_id": "Nelum Pokuna Bus Stop (6JRXWV67+3C)",
+    "name": "Nelum Pokuna Bus Stop",
+    "global_code": "6JRXWV67+3C",
+    "lat_lng": [
+      6.910208,
+      79.863576
+    ]
+  },
+  "Nugegoda (6JRXVV9Q+P4)": {
+    "stop_id": "Nugegoda (6JRXVV9Q+P4)",
+    "name": "Nugegoda",
+    "global_code": "6JRXVV9Q+P4",
+    "lat_lng": [
+      6.86935,
+      79.887795
+    ]
+  },
+  "Nugegoda (6JRXVV9R+J3)": {
+    "stop_id": "Nugegoda (6JRXVV9R+J3)",
+    "name": "Nugegoda",
+    "global_code": "6JRXVV9R+J3",
+    "lat_lng": [
+      6.869044,
+      79.890191
+    ]
+  },
+  "Nugegoda (6JRXVV9R+M2)": {
+    "stop_id": "Nugegoda (6JRXVV9R+M2)",
+    "name": "Nugegoda",
+    "global_code": "6JRXVV9R+M2",
+    "lat_lng": [
+      6.869166,
+      79.890074
+    ]
+  },
+  "Nugegoda (6JRXVVFR+MM)": {
+    "stop_id": "Nugegoda (6JRXVVFR+MM)",
+    "name": "Nugegoda",
+    "global_code": "6JRXVVFR+MM",
+    "lat_lng": [
+      6.87421,
+      79.891714
+    ]
+  },
+  "Nugegoda Bus Stand (6JRXVVFR+26)": {
+    "stop_id": "Nugegoda Bus Stand (6JRXVVFR+26)",
+    "name": "Nugegoda Bus Stand",
+    "global_code": "6JRXVVFR+26",
+    "lat_lng": [
+      6.872613,
+      79.890587
+    ]
+  },
+  "Odel Bus Stop (6JRXWV88+QJ)": {
+    "stop_id": "Odel Bus Stop (6JRXWV88+QJ)",
+    "name": "Odel Bus Stop",
+    "global_code": "6JRXWV88+QJ",
+    "lat_lng": [
+      6.916912,
+      79.866597
+    ]
+  },
+  "Orugodawatta Bus Stop (6JRXWVRH+X9)": {
+    "stop_id": "Orugodawatta Bus Stop (6JRXWVRH+X9)",
+    "name": "Orugodawatta Bus Stop",
+    "global_code": "6JRXWVRH+X9",
+    "lat_lng": [
+      6.942505,
+      79.878386
+    ]
+  },
+  "Pagoda (6JRXVVMX+4F)": {
+    "stop_id": "Pagoda (6JRXVVMX+4F)",
+    "name": "Pagoda",
+    "global_code": "6JRXVVMX+4F",
+    "lat_lng": [
+      6.882838,
+      79.898712
+    ]
+  },
+  "Pettah (6JRXWVM2+H2)": {
+    "stop_id": "Pettah (6JRXWVM2+H2)",
+    "name": "Pettah",
+    "global_code": "6JRXWVM2+H2",
+    "lat_lng": [
+      6.933984,
+      79.850023
+    ]
+  },
+  "Pettah Bus Stop (6JRXWRMX+PM)": {
+    "stop_id": "Pettah Bus Stop (6JRXWRMX+PM)",
+    "name": "Pettah Bus Stop",
+    "global_code": "6JRXWRMX+PM",
+    "lat_lng": [
+      6.934281,
+      79.849185
+    ]
+  },
+  "Pettah Slt Bus Stop (6JRXWRMW+CM)": {
+    "stop_id": "Pettah Slt Bus Stop (6JRXWRMW+CM)",
+    "name": "Pettah Slt Bus Stop",
+    "global_code": "6JRXWRMW+CM",
+    "lat_lng": [
+      6.933508,
+      79.846709
+    ]
+  },
+  "Pettah Slt Bus Stop (6JRXWRMW+MC)": {
+    "stop_id": "Pettah Slt Bus Stop (6JRXWRMW+MC)",
+    "name": "Pettah Slt Bus Stop",
+    "global_code": "6JRXWRMW+MC",
+    "lat_lng": [
+      6.93416,
+      79.84605
+    ]
+  },
+  "Pita Kotte Bus Stop (6JRXVWM2+7Q)": {
+    "stop_id": "Pita Kotte Bus Stop (6JRXVWM2+7Q)",
+    "name": "Pita Kotte Bus Stop",
+    "global_code": "6JRXVWM2+7Q",
+    "lat_lng": [
+      6.883233,
+      79.901886
+    ]
+  },
+  "Pitakotte (6JRXVWM2+HJ)": {
+    "stop_id": "Pitakotte (6JRXVWM2+HJ)",
+    "name": "Pitakotte",
+    "global_code": "6JRXVWM2+HJ",
+    "lat_lng": [
+      6.883889,
+      79.901545
+    ]
+  },
+  "Police Park (6JRXVVV6+8Q)": {
+    "stop_id": "Police Park (6JRXVVV6+8Q)",
+    "name": "Police Park",
+    "global_code": "6JRXVVV6+8Q",
+    "lat_lng": [
+      6.893361,
+      79.861992
+    ]
+  },
+  "Police Park Bus Stop (6JRXVVV6+8P)": {
+    "stop_id": "Police Park Bus Stop (6JRXVVV6+8P)",
+    "name": "Police Park Bus Stop",
+    "global_code": "6JRXVVV6+8P",
+    "lat_lng": [
+      6.893318,
+      79.861867
+    ]
+  },
+  "Police Park Bus Stop (6JRXVVV6+PM)": {
+    "stop_id": "Police Park Bus Stop (6JRXVVV6+PM)",
+    "name": "Police Park Bus Stop",
+    "global_code": "6JRXVVV6+PM",
+    "lat_lng": [
+      6.89435,
+      79.861648
+    ]
+  },
+  "Pradeepaya (6JRXWV9F+J3)": {
+    "stop_id": "Pradeepaya (6JRXWV9F+J3)",
+    "name": "Pradeepaya",
+    "global_code": "6JRXWV9F+J3",
+    "lat_lng": [
+      6.91901,
+      79.872704
+    ]
+  },
+  "Pradeepaya Bus Stop (6JRXWV9F+R5)": {
+    "stop_id": "Pradeepaya Bus Stop (6JRXWV9F+R5)",
+    "name": "Pradeepaya Bus Stop",
+    "global_code": "6JRXWV9F+R5",
+    "lat_lng": [
+      6.919541,
+      79.872954
+    ]
+  },
+  "Public Library (6JRXWV75+46)": {
+    "stop_id": "Public Library (6JRXWV75+46)",
+    "name": "Public Library",
+    "global_code": "6JRXWV75+46",
+    "lat_lng": [
+      6.91283,
+      79.858017
+    ]
+  },
+  "Public Library Bus Stop (6JRXWV75+46)": {
+    "stop_id": "Public Library Bus Stop (6JRXWV75+46)",
+    "name": "Public Library Bus Stop",
+    "global_code": "6JRXWV75+46",
+    "lat_lng": [
+      6.912842,
+      79.858042
+    ]
+  },
+  "Punchi Borella Junction Bus Stop (6JRXWVCC+P8)": {
+    "stop_id": "Punchi Borella Junction Bus Stop (6JRXWVCC+P8)",
+    "name": "Punchi Borella Junction Bus Stop",
+    "global_code": "6JRXWVCC+P8",
+    "lat_lng": [
+      6.921823,
+      79.870799
+    ]
+  },
+  "Race Course (6JRXWV47+FF)": {
+    "stop_id": "Race Course (6JRXWV47+FF)",
+    "name": "Race Course",
+    "global_code": "6JRXWV47+FF",
+    "lat_lng": [
+      6.906126,
+      79.863671
+    ]
+  },
+  "Rajagiriya Bus Stop (6JRXWV5V+98)": {
+    "stop_id": "Rajagiriya Bus Stop (6JRXWV5V+98)",
+    "name": "Rajagiriya Bus Stop",
+    "global_code": "6JRXWV5V+98",
+    "lat_lng": [
+      6.908469,
+      79.893376
+    ]
+  },
+  "Rajagiriya Bus Stop (6JRXWV6V+3P)": {
+    "stop_id": "Rajagiriya Bus Stop (6JRXWV6V+3P)",
+    "name": "Rajagiriya Bus Stop",
+    "global_code": "6JRXWV6V+3P",
+    "lat_lng": [
+      6.910229,
+      79.894345
+    ]
+  },
+  "Regal Cinema Bus Stop (6JRXWRJW+GQ)": {
+    "stop_id": "Regal Cinema Bus Stop (6JRXWRJW+GQ)",
+    "name": "Regal Cinema Bus Stop",
+    "global_code": "6JRXWRJW+GQ",
+    "lat_lng": [
+      6.931331,
+      79.846941
+    ]
+  },
+  "Regal Cinema Bus Stop (6JRXWRJW+GR)": {
+    "stop_id": "Regal Cinema Bus Stop (6JRXWRJW+GR)",
+    "name": "Regal Cinema Bus Stop",
+    "global_code": "6JRXWRJW+GR",
+    "lat_lng": [
+      6.93137,
+      79.847108
+    ]
+  },
+  "Roxy Garden Bus Stop (6JRXVV87+28)": {
+    "stop_id": "Roxy Garden Bus Stop (6JRXVV87+28)",
+    "name": "Roxy Garden Bus Stop",
+    "global_code": "6JRXVV87+28",
+    "lat_lng": [
+      6.865063,
+      79.863346
+    ]
+  },
+  "Sangamitha Vidyalaya Bus Stop (6JRXWVCF+HC)": {
+    "stop_id": "Sangamitha Vidyalaya Bus Stop (6JRXWVCF+HC)",
+    "name": "Sangamitha Vidyalaya Bus Stop",
+    "global_code": "6JRXWVCF+HC",
+    "lat_lng": [
+      6.921403,
+      79.873627
+    ]
+  },
+  "Sangamitha Vidyalaya Bus Stop (6JRXWVCF+HF)": {
+    "stop_id": "Sangamitha Vidyalaya Bus Stop (6JRXWVCF+HF)",
+    "name": "Sangamitha Vidyalaya Bus Stop",
+    "global_code": "6JRXWVCF+HF",
+    "lat_lng": [
+      6.92148,
+      79.873673
+    ]
+  },
+  "Saranankara Road (6JRXVV79+73)": {
+    "stop_id": "Saranankara Road (6JRXVV79+73)",
+    "name": "Saranankara Road",
+    "global_code": "6JRXVV79+73",
+    "lat_lng": [
+      6.863217,
+      79.867696
+    ]
+  },
+  "Savoy Bus Stop (6JRXVVH6+G2)": {
+    "stop_id": "Savoy Bus Stop (6JRXVVH6+G2)",
+    "name": "Savoy Bus Stop",
+    "global_code": "6JRXVVH6+G2",
+    "lat_lng": [
+      6.878848,
+      79.860084
+    ]
+  },
+  "Sbc/Nelum Pokuna (6JRXWV57+RF)": {
+    "stop_id": "Sbc/Nelum Pokuna (6JRXWV57+RF)",
+    "name": "Sbc/Nelum Pokuna",
+    "global_code": "6JRXWV57+RF",
+    "lat_lng": [
+      6.90958,
+      79.863698
+    ]
+  },
+  "School Avenue (6JRXVVHH+4F)": {
+    "stop_id": "School Avenue (6JRXVVHH+4F)",
+    "name": "School Avenue",
+    "global_code": "6JRXVVHH+4F",
+    "lat_lng": [
+      6.877777,
+      79.878661
+    ]
+  },
+  "Sigma (6JRXVVJC+F3)": {
+    "stop_id": "Sigma (6JRXVVJC+F3)",
+    "name": "Sigma",
+    "global_code": "6JRXVVJC+F3",
+    "lat_lng": [
+      6.881249,
+      79.870185
+    ]
+  },
+  "St. Bridget'S Bus Stop (6JRXWV67+9Q)": {
+    "stop_id": "St. Bridget'S Bus Stop (6JRXWV67+9Q)",
+    "name": "St. Bridget'S Bus Stop",
+    "global_code": "6JRXWV67+9Q",
+    "lat_lng": [
+      6.910985,
+      79.864445
+    ]
+  },
+  "St. Joseph'S College Bus Stop (6JRXWVG6+CQ)": {
+    "stop_id": "St. Joseph'S College Bus Stop (6JRXWVG6+CQ)",
+    "name": "St. Joseph'S College Bus Stop",
+    "global_code": "6JRXWVG6+CQ",
+    "lat_lng": [
+      6.926083,
+      79.861875
+    ]
+  },
+  "St. Joseph'S College Bus Stop (6JRXWVG6+XV)": {
+    "stop_id": "St. Joseph'S College Bus Stop (6JRXWVG6+XV)",
+    "name": "St. Joseph'S College Bus Stop",
+    "global_code": "6JRXWVG6+XV",
+    "lat_lng": [
+      6.927444,
+      79.862168
+    ]
+  },
+  "St. Peter'S Bus Stop (6JRXVVJ6+CM)": {
+    "stop_id": "St. Peter'S Bus Stop (6JRXVVJ6+CM)",
+    "name": "St. Peter'S Bus Stop",
+    "global_code": "6JRXVVJ6+CM",
+    "lat_lng": [
+      6.881055,
+      79.861731
+    ]
+  },
+  "St.Peters College Bambalapitiya (6JRXVVJ6+HM)": {
+    "stop_id": "St.Peters College Bambalapitiya (6JRXVVJ6+HM)",
+    "name": "St.Peters College Bambalapitiya",
+    "global_code": "6JRXVVJ6+HM",
+    "lat_lng": [
+      6.881399,
+      79.86168
+    ]
+  },
+  "Staple Street Bus Stop (6JRXWVC4+G9)": {
+    "stop_id": "Staple Street Bus Stop (6JRXWVC4+G9)",
+    "name": "Staple Street Bus Stop",
+    "global_code": "6JRXWVC4+G9",
+    "lat_lng": [
+      6.921291,
+      79.85592
+    ]
+  },
+  "Stratford Avenue Bus Stop (6JRXVVHF+46)": {
+    "stop_id": "Stratford Avenue Bus Stop (6JRXVVHF+46)",
+    "name": "Stratford Avenue Bus Stop",
+    "global_code": "6JRXVVHF+46",
+    "lat_lng": [
+      6.87781,
+      79.873008
+    ]
+  },
+  "Technical Junction Maradana (6JRXWVJ6+X7)": {
+    "stop_id": "Technical Junction Maradana (6JRXWVJ6+X7)",
+    "name": "Technical Junction Maradana",
+    "global_code": "6JRXWVJ6+X7",
+    "lat_lng": [
+      6.932428,
+      79.860652
+    ]
+  },
+  "Temple Trees Bus Stop (6JRXWR7X+8J)": {
+    "stop_id": "Temple Trees Bus Stop (6JRXWR7X+8J)",
+    "name": "Temple Trees Bus Stop",
+    "global_code": "6JRXWR7X+8J",
+    "lat_lng": [
+      6.913323,
+      79.849107
+    ]
+  },
+  "Tennis Association Bus Stop (6JRXWV65+4J)": {
+    "stop_id": "Tennis Association Bus Stop (6JRXWV65+4J)",
+    "name": "Tennis Association Bus Stop",
+    "global_code": "6JRXWV65+4J",
+    "lat_lng": [
+      6.910257,
+      79.859046
+    ]
+  },
+  "Thimbirigasyaya Bus Stop (6JRXVVR7+F8)": {
+    "stop_id": "Thimbirigasyaya Bus Stop (6JRXVVR7+F8)",
+    "name": "Thimbirigasyaya Bus Stop",
+    "global_code": "6JRXVVR7+F8",
+    "lat_lng": [
+      6.891234,
+      79.863316
+    ]
+  },
+  "Thummulla (6JRXVVX6+G7)": {
+    "stop_id": "Thummulla (6JRXVVX6+G7)",
+    "name": "Thummulla",
+    "global_code": "6JRXVVX6+G7",
+    "lat_lng": [
+      6.89876,
+      79.860745
+    ]
+  },
+  "Thummulla Bus Stop (6JRXVVW6+76)": {
+    "stop_id": "Thummulla Bus Stop (6JRXVVW6+76)",
+    "name": "Thummulla Bus Stop",
+    "global_code": "6JRXVVW6+76",
+    "lat_lng": [
+      6.895664,
+      79.860557
+    ]
+  },
+  "Thummulla Bus Stop (6JRXVVW6+87)": {
+    "stop_id": "Thummulla Bus Stop (6JRXVVW6+87)",
+    "name": "Thummulla Bus Stop",
+    "global_code": "6JRXVVW6+87",
+    "lat_lng": [
+      6.89578,
+      79.860658
+    ]
+  },
+  "Thummulla Bus Stop (6JRXVVX6+48)": {
+    "stop_id": "Thummulla Bus Stop (6JRXVVX6+48)",
+    "name": "Thummulla Bus Stop",
+    "global_code": "6JRXVVX6+48",
+    "lat_lng": [
+      6.897758,
+      79.860839
+    ]
+  },
+  "Town Hall (6JRXWV87+J7)": {
+    "stop_id": "Town Hall (6JRXWV87+J7)",
+    "name": "Town Hall",
+    "global_code": "6JRXWV87+J7",
+    "lat_lng": [
+      6.916577,
+      79.863241
+    ]
+  },
+  "Town Hall (6JRXWV87+M7)": {
+    "stop_id": "Town Hall (6JRXWV87+M7)",
+    "name": "Town Hall",
+    "global_code": "6JRXWV87+M7",
+    "lat_lng": [
+      6.916673,
+      79.863151
+    ]
+  },
+  "Town Hall Bus Stop (6JRXWV87+7X)": {
+    "stop_id": "Town Hall Bus Stop (6JRXWV87+7X)",
+    "name": "Town Hall Bus Stop",
+    "global_code": "6JRXWV87+7X",
+    "lat_lng": [
+      6.915676,
+      79.864942
+    ]
+  },
+  "Town Hall Bus Stop (6JRXWV87+JX)": {
+    "stop_id": "Town Hall Bus Stop (6JRXWV87+JX)",
+    "name": "Town Hall Bus Stop",
+    "global_code": "6JRXWV87+JX",
+    "lat_lng": [
+      6.916574,
+      79.864957
+    ]
+  },
+  "Viharamahadevi Balika Vidyalaya Bus Stop (6JRXWVC7+QQ)": {
+    "stop_id": "Viharamahadevi Balika Vidyalaya Bus Stop (6JRXWVC7+QQ)",
+    "name": "Viharamahadevi Balika Vidyalaya Bus Stop",
+    "global_code": "6JRXWVC7+QQ",
+    "lat_lng": [
+      6.921905,
+      79.864521
+    ]
+  },
+  "Viharamahadevi Park Bus Stop (6JRXWV75+JF)": {
+    "stop_id": "Viharamahadevi Park Bus Stop (6JRXWV75+JF)",
+    "name": "Viharamahadevi Park Bus Stop",
+    "global_code": "6JRXWV75+JF",
+    "lat_lng": [
+      6.914004,
+      79.858731
+    ]
+  },
+  "Viharamahadevi Park Bus Stop (6JRXWV75+MC)": {
+    "stop_id": "Viharamahadevi Park Bus Stop (6JRXWV75+MC)",
+    "name": "Viharamahadevi Park Bus Stop",
+    "global_code": "6JRXWV75+MC",
+    "lat_lng": [
+      6.914168,
+      79.85862
+    ]
+  },
+  "Viharamahadevi Park Bus Stop (6JRXWV86+7P)": {
+    "stop_id": "Viharamahadevi Park Bus Stop (6JRXWV86+7P)",
+    "name": "Viharamahadevi Park Bus Stop",
+    "global_code": "6JRXWV86+7P",
+    "lat_lng": [
+      6.915729,
+      79.861752
+    ]
+  },
+  "Viharamahadevi Park Bus Stop (6JRXWV86+8M)": {
+    "stop_id": "Viharamahadevi Park Bus Stop (6JRXWV86+8M)",
+    "name": "Viharamahadevi Park Bus Stop",
+    "global_code": "6JRXWV86+8M",
+    "lat_lng": [
+      6.915849,
+      79.861652
+    ]
+  },
+  "Visakha Bus Stop (6JRXVVR5+P7)": {
+    "stop_id": "Visakha Bus Stop (6JRXVVR5+P7)",
+    "name": "Visakha Bus Stop",
+    "global_code": "6JRXVVR5+P7",
+    "lat_lng": [
+      6.891845,
+      79.858246
+    ]
+  },
+  "Welikada Prison Bus Stop (6JRXWVCH+P5)": {
+    "stop_id": "Welikada Prison Bus Stop (6JRXWVCH+P5)",
+    "name": "Welikada Prison Bus Stop",
+    "global_code": "6JRXWVCH+P5",
+    "lat_lng": [
+      6.921861,
+      79.877886
+    ]
+  },
+  "Wellawate Mosque Bus Stop (6JRXVVG6+R6)": {
+    "stop_id": "Wellawate Mosque Bus Stop (6JRXVVG6+R6)",
+    "name": "Wellawate Mosque Bus Stop",
+    "global_code": "6JRXVVG6+R6",
+    "lat_lng": [
+      6.877091,
+      79.860572
+    ]
+  },
+  "Wellawatta Market (6JRXVVF6+MJ)": {
+    "stop_id": "Wellawatta Market (6JRXVVF6+MJ)",
+    "name": "Wellawatta Market",
+    "global_code": "6JRXVVF6+MJ",
+    "lat_lng": [
+      6.874124,
+      79.861527
+    ]
+  },
+  "Wellawatta Mosque (6JRXVVG6+H8)": {
+    "stop_id": "Wellawatta Mosque (6JRXVVG6+H8)",
+    "name": "Wellawatta Mosque",
+    "global_code": "6JRXVVG6+H8",
+    "lat_lng": [
+      6.876458,
+      79.860767
+    ]
+  },
+  "Wellawatte (6JRXVVF6+4P)": {
+    "stop_id": "Wellawatte (6JRXVVF6+4P)",
+    "name": "Wellawatte",
+    "global_code": "6JRXVVF6+4P",
+    "lat_lng": [
+      6.872753,
+      79.861784
+    ]
+  },
+  "Wesley College Bus Stop (6JRXWVFH+65)": {
+    "stop_id": "Wesley College Bus Stop (6JRXWVFH+65)",
+    "name": "Wesley College Bus Stop",
+    "global_code": "6JRXWVFH+65",
+    "lat_lng": [
+      6.923102,
+      79.877888
+    ]
+  },
+  "Wijerama / Bmich Bus Stop (6JRXWV4F+36)": {
+    "stop_id": "Wijerama / Bmich Bus Stop (6JRXWV4F+36)",
+    "name": "Wijerama / Bmich Bus Stop",
+    "global_code": "6JRXWV4F+36",
+    "lat_lng": [
+      6.90516,
+      79.873101
+    ]
+  },
+  "Wijerama / Bmich Bus Stop (6JRXWV4F+CJ)": {
+    "stop_id": "Wijerama / Bmich Bus Stop (6JRXWV4F+CJ)",
+    "name": "Wijerama / Bmich Bus Stop",
+    "global_code": "6JRXWV4F+CJ",
+    "lat_lng": [
+      6.906081,
+      79.874122
+    ]
+  },
+  "William Junction (6JRXVV67+XQ)": {
+    "stop_id": "William Junction (6JRXVV67+XQ)",
+    "name": "William Junction",
+    "global_code": "6JRXVV67+XQ",
+    "lat_lng": [
+      6.862495,
+      79.864402
+    ]
+  },
+  "William Junction Bus Stop (6JRXVV77+HC)": {
+    "stop_id": "William Junction Bus Stop (6JRXVV77+HC)",
+    "name": "William Junction Bus Stop",
+    "global_code": "6JRXVV77+HC",
+    "lat_lng": [
+      6.863916,
+      79.863597
+    ]
+  },
+  "Wimala Wihara Mawatha Bus Stop (6JRXVVRQ+P9)": {
+    "stop_id": "Wimala Wihara Mawatha Bus Stop (6JRXVVRQ+P9)",
+    "name": "Wimala Wihara Mawatha Bus Stop",
+    "global_code": "6JRXVVRQ+P9",
+    "lat_lng": [
+      6.891756,
+      79.888405
+    ]
+  },
+  "Wtc Bus Stop (6JRXWRMV+9V)": {
+    "stop_id": "Wtc Bus Stop (6JRXWRMV+9V)",
+    "name": "Wtc Bus Stop",
+    "global_code": "6JRXWRMV+9V",
+    "lat_lng": [
+      6.933389,
+      79.844656
+    ]
+  },
+  "\u0db6\u0db8\u0dca\u0db6\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0dc4\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dda \u0db6\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0dad\u0dd4\u0db8\u0dca\u0db4\u0dc5 (6JRXVVV4+MX)": {
+    "stop_id": "\u0db6\u0db8\u0dca\u0db6\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0dc4\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dda \u0db6\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0dad\u0dd4\u0db8\u0dca\u0db4\u0dc5 (6JRXVVV4+MX)",
+    "name": "\u0db6\u0db8\u0dca\u0db6\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0dc4\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dda \u0db6\u0dc3\u0dca \u0db1\u0dd0\u0dc0\u0dad\u0dd4\u0db8\u0dca\u0db4\u0dc5",
+    "global_code": "6JRXVVV4+MX",
+    "lat_lng": [
+      6.894227,
+      79.857474
+    ]
+  }
+}

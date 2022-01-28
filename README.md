@@ -13,3 +13,4 @@
   *  [2022-01-28 07:31PM] Initial files
   *  [2022-01-28 07:44PM] Removed tests
   *  [2022-01-28 07:44PM] r_lint
+  *  [2022-01-28 07:49PM] Removed tests from build workflow
