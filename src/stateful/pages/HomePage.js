@@ -18,7 +18,7 @@ import StopCircle from "../../nonstate/molecules/StopCircle.js";
 const DEFAULT_ZOOM = 18;
 const NAVIGATION_PANES = {
   MAP: 0,
-  BUSSES: 1,
+  ROUTES: 1,
   STOPS: 2,
 };
 const N_CLOSEST_STOPS_DISPLAY = 10;
@@ -72,7 +72,7 @@ export default class HomePage extends Component {
     );
   }
 
-  renderBusses() {
+  renderRoutes() {
     const { routesForStops } = this.state;
     return <RoutesView routes={routesForStops} />;
   }
@@ -88,8 +88,8 @@ export default class HomePage extends Component {
     switch (navigationPaneValue) {
       case NAVIGATION_PANES.MAP:
         return this.renderMap();
-      case NAVIGATION_PANES.BUSSES:
-        return this.renderBusses();
+      case NAVIGATION_PANES.ROUTES:
+        return this.renderRoutes();
       case NAVIGATION_PANES.STOPS:
         return this.renderStops();
       default:
@@ -117,7 +117,7 @@ export default class HomePage extends Component {
           >
             <BottomNavigationAction label="Map" icon={<LocationOnIcon />} />
             <BottomNavigationAction
-              label="Busses"
+              label="Routes"
               icon={<DirectionsBusIcon />}
             />
             <BottomNavigationAction label="Stops" icon={<AirlineStopsIcon />} />
