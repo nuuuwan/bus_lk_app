@@ -28,8 +28,8 @@ export default function RouteView({ route, stopsIndex, onUpdateLatLng }) {
       </ListItemIcon>
       <ListItemText>
         <RouteIDView routeID={route.routeID} />
-        <StopName stopName={lastStopName} size={12} prefix="to" />
-        <StopName stopName={route.closestStopName} size={20} prefix="" />
+        <StopName stopName={lastStopName} size={20} prefix="" />
+        <StopName stopName={route.closestStopName} size={12} prefix="from" />
 
         <Distance distanceKM={route.distance} />
       </ListItemText>

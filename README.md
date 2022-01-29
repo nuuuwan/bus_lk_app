@@ -52,3 +52,4 @@
   *  [2022-01-29 10:29PM] Added destination
   *  [2022-01-29 10:31PM] Various
   *  [2022-01-29 10:36PM] Various
+  *  [2022-01-29 10:40PM] Switched last and closest stations
