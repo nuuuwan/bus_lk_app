@@ -9,7 +9,9 @@ import AirlineStopsIcon from "@mui/icons-material/AirlineStops";
 import Paper from "@mui/material/Paper";
 
 import Stops from "../../core/Stops.js";
+import Routes from "../../core/Routes.js";
 import ClosestStopsView from "../../nonstate/molecules/ClosestStopsView.js";
+import RoutesView from "../../nonstate/molecules/RoutesView.js";
 import GeoMap from "../molecules/GeoMap.js";
 import StopCircle from "../../nonstate/molecules/StopCircle.js";
 
@@ -19,6 +21,7 @@ const NAVIGATION_PANES = {
   BUSSES: 1,
   STOPS: 2,
 };
+const N_CLOSEST_STOPS_DISPLAY = 10;
 
 export default class HomePage extends Component {
   constructor(props) {
@@ -40,10 +43,17 @@ export default class HomePage extends Component {
   async onGetCurrentPosition(position) {
     const latLng = [position.coords.latitude, position.coords.longitude];
     // const latLng = [6.9172829187372065, 79.86479515647251]
-
     const closestStops = await Stops.getClosestStops(latLng);
+    const closestStopsDisplay = closestStops.slice(0, N_CLOSEST_STOPS_DISPLAY);
+    const routesForStops = await Routes.getRoutesForStops(closestStopsDisplay);
 
-    this.setState({ latLng, closestStops, isDataLoaded: true });
+    this.setState({
+      latLng,
+      closestStops,
+      closestStopsDisplay,
+      routesForStops,
+      isDataLoaded: true,
+    });
   }
 
   onChangeBottomNavigation(e, navigationPaneValue) {
@@ -63,12 +73,13 @@ export default class HomePage extends Component {
   }
 
   renderBusses() {
-    return null;
+    const { routesForStops } = this.state;
+    return <RoutesView routes={routesForStops} />;
   }
 
   renderStops() {
-    const { closestStops } = this.state;
-    return <ClosestStopsView closestStops={closestStops} />;
+    const { closestStopsDisplay } = this.state;
+    return <ClosestStopsView closestStops={closestStopsDisplay} />;
   }
 
   renderInner() {
