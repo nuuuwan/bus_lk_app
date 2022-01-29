@@ -37,3 +37,4 @@
   *  [2022-01-29 06:25PM] Various
   *  [2022-01-29 06:35PM] Changed font to Lato
   *  [2022-01-29 06:50PM] Moving Map
+  *  [2022-01-29 06:51PM] Removed logging

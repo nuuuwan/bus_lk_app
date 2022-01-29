@@ -49,7 +49,6 @@ export default class HomePage extends Component {
   }
 
   async updateMapPosition(latLng, zoom) {
-    console.debug({ latLng, zoom });
     const closestStops = await Stops.getClosestStops(latLng);
     const closestStopsDisplay = closestStops.slice(0, N_CLOSEST_STOPS_DISPLAY);
     const routesForStops = await Routes.getRoutesForStops(closestStopsDisplay);
