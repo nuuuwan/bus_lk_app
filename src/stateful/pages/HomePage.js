@@ -18,7 +18,6 @@ const NAVIGATION_PANES = {
   MAP: 0,
   ROUTES: 1,
 };
-const N_CLOSEST_STOPS_DISPLAY = 10;
 
 // function getRandomGeoLocation() {
 //   function getRandomQ() {
@@ -47,15 +46,13 @@ export default class HomePage extends Component {
 
   async updateMapPosition(latLng, zoom) {
     const closestStops = await Stops.getClosestStops(latLng);
-    const closestStopsDisplay = closestStops.slice(0, N_CLOSEST_STOPS_DISPLAY);
-    const routesForStops = await Routes.getRoutesForStops(closestStopsDisplay);
+    const routesForStops = await Routes.getRoutesForStops(closestStops);
     const stopIDToRouteIDs = await Routes.getStopIDToRouteIDs();
 
     this.setState({
       zoom,
       latLng,
       closestStops,
-      closestStopsDisplay,
       routesForStops,
       stopIDToRouteIDs,
       isDataLoaded: true,
