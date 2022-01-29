@@ -23,14 +23,15 @@ const NAVIGATION_PANES = {
 };
 const N_CLOSEST_STOPS_DISPLAY = 10;
 
-function getRandomDelta() {
-  return (Math.random()  * 2 - 1) * 0.01
-}
-function getRandomGeoLocation() {
-  const [lat0, lng0] = [6.9172829187372065, 79.86479515647251];
-  const [dLat, dLng] = [getRandomDelta(), getRandomDelta()];
-  return [lat0 + dLat, lng0 + dLng];
-}
+// function getRandomGeoLocation() {
+//   function getRandomQ() {
+//     return Math.random() * 2 - 1;
+//   }
+//
+//   const [lat0, lng0] = [6.896756840487376, 79.87675917795639];
+//   const [dLat, dLng] = [getRandomQ() * 0.06, getRandomQ() * 0.01];
+//   return [lat0 + dLat, lng0 + dLng];
+// }
 
 export default class HomePage extends Component {
   constructor(props) {
@@ -48,8 +49,8 @@ export default class HomePage extends Component {
   }
 
   async onGetCurrentPosition(position) {
-    // const latLng = [position.coords.latitude, position.coords.longitude];
-    const latLng = getRandomGeoLocation();
+    const latLng = [position.coords.latitude, position.coords.longitude];
+    // const latLng = getRandomGeoLocation();
     const closestStops = await Stops.getClosestStops(latLng);
     const closestStopsDisplay = closestStops.slice(0, N_CLOSEST_STOPS_DISPLAY);
     const routesForStops = await Routes.getRoutesForStops(closestStopsDisplay);
