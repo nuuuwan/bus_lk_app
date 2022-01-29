@@ -45,12 +45,17 @@ export default class Routes {
         if (routeIDSet.has(routeID)) {
           continue;
         }
-        if (routeStopIDs.includes(searchStopID)) {
+        const closestStopIndex = routeStopIDs.findIndex(
+          (stopID) => stopID === searchStopID
+        );
+        if (closestStopIndex !== -1) {
           routesForStops.push({
             routeID,
-            stopID: searchStopID,
-            stopName: searchStop.name,
-            stopLatLng: searchStop.latLng,
+            routeStopIDs,
+            closestStopIndex,
+            closestStopID: searchStopID,
+            closestStopName: searchStop.name,
+            closestStopLatLng: searchStop.latLng,
             distance: searchStop.distance,
           });
           routeIDSet.add(routeID);

@@ -46,6 +46,7 @@ export default class HomePage extends Component {
 
   async updateMapPosition(latLng, zoom) {
     const closestStops = await Stops.getClosestStops(latLng);
+    const stopsIndex = await Stops.getStopsIndex();
     const routesForStops = await Routes.getRoutesForStops(closestStops);
     const stopIDToRouteIDs = await Routes.getStopIDToRouteIDs();
 
@@ -53,6 +54,7 @@ export default class HomePage extends Component {
       zoom,
       latLng,
       closestStops,
+      stopsIndex,
       routesForStops,
       stopIDToRouteIDs,
       isDataLoaded: true,
@@ -98,10 +100,11 @@ export default class HomePage extends Component {
   }
 
   renderRoutes() {
-    const { routesForStops } = this.state;
+    const { routesForStops, stopsIndex } = this.state;
     return (
       <RoutesView
         routes={routesForStops}
+        stopsIndex={stopsIndex}
         onUpdateLatLng={this.onUpdateLatLng.bind(this)}
       />
     );
