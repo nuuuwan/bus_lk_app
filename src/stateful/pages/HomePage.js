@@ -48,15 +48,15 @@ export default class HomePage extends Component {
     );
   }
 
-  async onGetCurrentPosition(position) {
-    const latLng = [position.coords.latitude, position.coords.longitude];
-    // const latLng = getRandomGeoLocation();
+  async updateMapPosition(latLng, zoom) {
+    console.debug({ latLng, zoom });
     const closestStops = await Stops.getClosestStops(latLng);
     const closestStopsDisplay = closestStops.slice(0, N_CLOSEST_STOPS_DISPLAY);
     const routesForStops = await Routes.getRoutesForStops(closestStopsDisplay);
     const stopIDToRouteIDs = await Routes.getStopIDToRouteIDs();
 
     this.setState({
+      zoom,
       latLng,
       closestStops,
       closestStopsDisplay,
@@ -64,6 +64,19 @@ export default class HomePage extends Component {
       stopIDToRouteIDs,
       isDataLoaded: true,
     });
+  }
+
+  async onGetCurrentPosition(position) {
+    const latLng = [position.coords.latitude, position.coords.longitude];
+    const zoom = DEFAULT_ZOOM;
+    await this.updateMapPosition(latLng, zoom);
+  }
+
+  async onMoveEnd(e) {
+    const latLngObj = e.target.getCenter();
+    const latLng = [latLngObj.lat, latLngObj.lng];
+    const zoom = e.target.getZoom();
+    await this.updateMapPosition(latLng, zoom);
   }
 
   onChangeBottomNavigation(e, navigationPaneValue) {
@@ -74,7 +87,11 @@ export default class HomePage extends Component {
     const { latLng, closestStops } = this.state;
     const [lat, lng] = latLng;
     return (
-      <GeoMap center={[lat, lng]} zoom={DEFAULT_ZOOM} className="geo-map">
+      <GeoMap
+        center={[lat, lng]}
+        zoom={DEFAULT_ZOOM}
+        onMoveEnd={this.onMoveEnd.bind(this)}
+      >
         {closestStops.map(function (stop, iStop) {
           return <StopCircle key={`stop-circle-${iStop}`} stop={stop} />;
         })}

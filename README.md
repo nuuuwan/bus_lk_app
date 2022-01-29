@@ -36,3 +36,4 @@
   *  [2022-01-29 06:19PM] Random start
   *  [2022-01-29 06:25PM] Various
   *  [2022-01-29 06:35PM] Changed font to Lato
+  *  [2022-01-29 06:50PM] Moving Map
