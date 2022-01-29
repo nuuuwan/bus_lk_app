@@ -7,13 +7,17 @@ import ListItemText from "@mui/material/ListItemText";
 import MultipleStopIcon from "@mui/icons-material/MultipleStop";
 import RouteIDView from "../molecules/RouteIDView.js";
 
+const MAX_WALKING_DISTAICE = 1.1;
+
 export default function RouteView({ route, onUpdateLatLng }) {
   const onClick = function () {
     onUpdateLatLng(route.stopLatLng);
   };
 
+  const opacity = (route.distance <= MAX_WALKING_DISTAICE) ? 1 : 0.1;
+
   return (
-    <ListItemButton onClick={onClick}>
+    <ListItemButton onClick={onClick} sx={{opacity}}>
       <ListItemIcon>
         <MultipleStopIcon />
       </ListItemIcon>

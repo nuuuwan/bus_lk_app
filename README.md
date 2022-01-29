@@ -45,3 +45,4 @@
   *  [2022-01-29 09:38PM] Removed RouteViewItem
   *  [2022-01-29 09:39PM] Display all routes
   *  [2022-01-29 09:44PM] Fixed scrolling bug
+  *  [2022-01-29 09:47PM] Added distance opacity
