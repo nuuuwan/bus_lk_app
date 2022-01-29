@@ -3,23 +3,20 @@ import { Component } from "react";
 import Box from "@mui/material/Box";
 import BottomNavigation from "@mui/material/BottomNavigation";
 import BottomNavigationAction from "@mui/material/BottomNavigationAction";
-import RestoreIcon from "@mui/icons-material/Restore";
-import FavoriteIcon from "@mui/icons-material/Favorite";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import DirectionsBusIcon from "@mui/icons-material/DirectionsBus";
-import AirlineStopsIcon from '@mui/icons-material/AirlineStops';
+import AirlineStopsIcon from "@mui/icons-material/AirlineStops";
+import Paper from "@mui/material/Paper";
 
 import Stops from "../../core/Stops.js";
 import ClosestStopsView from "../../nonstate/molecules/ClosestStopsView.js";
 import GeoMap from "../molecules/GeoMap.js";
 import StopCircle from "../../nonstate/molecules/StopCircle.js";
 
-import "./HomePage.css";
-
 const DEFAULT_ZOOM = 18;
 const NAVIGATION_PANES = {
   MAP: 0,
-  BUSES: 1,
+  BUSSES: 1,
   STOPS: 2,
 };
 
@@ -65,25 +62,43 @@ export default class HomePage extends Component {
     );
   }
 
-  renderInner() {
-    const { navigationPaneValue } = this.state;
-
-    if (navigationPaneValue === NAVIGATION_PANES.MAP) {
-      return this.renderMap();
-    }
+  renderBusses() {
     return null;
   }
 
+  renderStops() {
+    const { closestStops } = this.state;
+    return <ClosestStopsView closestStops={closestStops} />;
+  }
+
+  renderInner() {
+    const { navigationPaneValue } = this.state;
+
+    switch (navigationPaneValue) {
+      case NAVIGATION_PANES.MAP:
+        return this.renderMap();
+      case NAVIGATION_PANES.BUSSES:
+        return this.renderBusses();
+      case NAVIGATION_PANES.STOPS:
+        return this.renderStops();
+      default:
+        return null;
+    }
+  }
+
   render() {
-    const { latLng, closestStops, isDataLoaded, navigationPaneValue } =
-      this.state;
+    const { isDataLoaded, navigationPaneValue } = this.state;
     if (!isDataLoaded) {
       return "Loading...";
     }
 
     return (
-      <div>
-        <div className="div-fixed-pane">
+      <Box>
+        {this.renderInner()}
+        <Paper
+          sx={{ position: "fixed", bottom: 0, left: 0, right: 0 }}
+          elevation={3}
+        >
           <BottomNavigation
             showLabels
             onChange={this.onChangeBottomNavigation.bind(this)}
@@ -91,19 +106,13 @@ export default class HomePage extends Component {
           >
             <BottomNavigationAction label="Map" icon={<LocationOnIcon />} />
             <BottomNavigationAction
-              label="Buses"
+              label="Busses"
               icon={<DirectionsBusIcon />}
             />
-            <BottomNavigationAction
-              label="Stops"
-              icon={<AirlineStopsIcon />}
-            />
-
+            <BottomNavigationAction label="Stops" icon={<AirlineStopsIcon />} />
           </BottomNavigation>
-        </div>
-
-        {this.renderInner()}
-      </div>
+        </Paper>
+      </Box>
     );
   }
 }

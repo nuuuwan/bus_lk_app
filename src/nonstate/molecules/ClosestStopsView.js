@@ -1,4 +1,4 @@
-const MAX_CLOSEST_STOPS = 10;
+const MAX_CLOSEST_STOPS = 20;
 
 function Distance({ distanceKM }) {
   if (distanceKM < 1) {

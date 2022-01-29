@@ -1,6 +1,6 @@
 import { Component } from "react";
-import { MapContainer, TileLayer , CircleMarker} from "react-leaflet";
-import STYLES from '../../Styles.js'
+import { MapContainer, TileLayer, CircleMarker } from "react-leaflet";
+import STYLES from "../../Styles.js";
 import "./GeoMap.css";
 
 const URL_FORMAT = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png";
