@@ -32,3 +32,4 @@
   *  [2022-01-29 05:43PM] Added StopView
   *  [2022-01-29 05:44PM] Added RouteView
   *  [2022-01-29 06:12PM] Added routes to stops
+  *  [2022-01-29 06:13PM] navigationPaneValue: NAVIGATION_PANES.ROUTES

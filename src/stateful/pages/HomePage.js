@@ -28,7 +28,7 @@ export default class HomePage extends Component {
     super(props);
     this.state = {
       isDataLoaded: false,
-      navigationPaneValue: NAVIGATION_PANES.STOPS,
+      navigationPaneValue: NAVIGATION_PANES.ROUTES,
     };
   }
 
