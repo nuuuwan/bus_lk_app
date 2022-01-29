@@ -5,7 +5,7 @@ import BottomNavigation from "@mui/material/BottomNavigation";
 import BottomNavigationAction from "@mui/material/BottomNavigationAction";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import DirectionsBusIcon from "@mui/icons-material/DirectionsBus";
-import AirlineStopsIcon from "@mui/icons-material/AirlineStops";
+import MultipleStopIcon from "@mui/icons-material/MultipleStop";
 import Paper from "@mui/material/Paper";
 
 import Stops from "../../core/Stops.js";
@@ -15,7 +15,7 @@ import RoutesView from "../../nonstate/molecules/RoutesView.js";
 import GeoMap from "../molecules/GeoMap.js";
 import StopCircle from "../../nonstate/molecules/StopCircle.js";
 
-const DEFAULT_ZOOM = 16;
+const DEFAULT_ZOOM = 18;
 const NAVIGATION_PANES = {
   MAP: 0,
   ROUTES: 1,
@@ -62,7 +62,12 @@ export default class HomePage extends Component {
       routesForStops,
       stopIDToRouteIDs,
       isDataLoaded: true,
+      navigationPaneValue: NAVIGATION_PANES.MAP,
     });
+  }
+
+  async onUpdateLatLng(latLng) {
+    await this.updateMapPosition(latLng, DEFAULT_ZOOM);
   }
 
   async onGetCurrentPosition(position) {
@@ -109,6 +114,7 @@ export default class HomePage extends Component {
       <StopsView
         stops={closestStopsDisplay}
         stopIDToRouteIDs={stopIDToRouteIDs}
+        onUpdateLatLng={this.onUpdateLatLng.bind(this)}
       />
     );
   }
@@ -149,9 +155,12 @@ export default class HomePage extends Component {
             <BottomNavigationAction label="Map" icon={<LocationOnIcon />} />
             <BottomNavigationAction
               label="Routes"
+              icon={<MultipleStopIcon />}
+            />
+            <BottomNavigationAction
+              label="Stops"
               icon={<DirectionsBusIcon />}
             />
-            <BottomNavigationAction label="Stops" icon={<AirlineStopsIcon />} />
           </BottomNavigation>
         </Paper>
       </Box>

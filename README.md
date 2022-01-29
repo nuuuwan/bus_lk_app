@@ -38,3 +38,4 @@
   *  [2022-01-29 06:35PM] Changed font to Lato
   *  [2022-01-29 06:50PM] Moving Map
   *  [2022-01-29 06:51PM] Removed logging
+  *  [2022-01-29 07:20PM] Added Click on Stops; Changed Icons

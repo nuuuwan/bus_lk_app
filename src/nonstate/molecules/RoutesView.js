@@ -3,14 +3,14 @@ import List from "@mui/material/List";
 import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
-import DirectionsBusIcon from "@mui/icons-material/DirectionsBus";
+import MultipleStopIcon from "@mui/icons-material/MultipleStop";
 import RouteView from "../molecules/RouteView.js";
 
 function RoutesViewItem({ route }) {
   return (
     <ListItemButton>
       <ListItemIcon>
-        <DirectionsBusIcon />
+        <MultipleStopIcon />
       </ListItemIcon>
       <ListItemText>
         <RouteView route={route} />

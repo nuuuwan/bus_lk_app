@@ -3,14 +3,17 @@ import List from "@mui/material/List";
 import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
-import AirlineStopsIcon from "@mui/icons-material/AirlineStops";
+import DirectionsBusIcon from "@mui/icons-material/DirectionsBus";
 import StopView from "../molecules/StopView.js";
 
-function StopsViewItem({ stop, stopIDToRouteIDs }) {
+function StopsViewItem({ stop, stopIDToRouteIDs, onUpdateLatLng }) {
+  const onClickInner = function () {
+    onUpdateLatLng(stop.lat_lng);
+  };
   return (
-    <ListItemButton>
+    <ListItemButton onClick={onClickInner}>
       <ListItemIcon>
-        <AirlineStopsIcon />
+        <DirectionsBusIcon />
       </ListItemIcon>
       <ListItemText>
         <StopView stop={stop} stopIDToRouteIDs={stopIDToRouteIDs} />
@@ -19,7 +22,7 @@ function StopsViewItem({ stop, stopIDToRouteIDs }) {
   );
 }
 
-export default function StopsView({ stops, stopIDToRouteIDs }) {
+export default function StopsView({ stops, stopIDToRouteIDs, onUpdateLatLng }) {
   return (
     <List>
       {stops.map(function (stop, iStop) {
@@ -28,6 +31,7 @@ export default function StopsView({ stops, stopIDToRouteIDs }) {
             key={`stop-${iStop}`}
             stop={stop}
             stopIDToRouteIDs={stopIDToRouteIDs}
+            onUpdateLatLng={onUpdateLatLng}
           />
         );
       })}
