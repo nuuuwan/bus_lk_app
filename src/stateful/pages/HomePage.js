@@ -27,8 +27,6 @@ export default class HomePage extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      latLng: undefined,
-      closestStops: undefined,
       isDataLoaded: false,
       navigationPaneValue: NAVIGATION_PANES.STOPS,
     };
@@ -46,12 +44,14 @@ export default class HomePage extends Component {
     const closestStops = await Stops.getClosestStops(latLng);
     const closestStopsDisplay = closestStops.slice(0, N_CLOSEST_STOPS_DISPLAY);
     const routesForStops = await Routes.getRoutesForStops(closestStopsDisplay);
+    const stopIDToRouteIDs = await Routes.getStopIDToRouteIDs();
 
     this.setState({
       latLng,
       closestStops,
       closestStopsDisplay,
       routesForStops,
+      stopIDToRouteIDs,
       isDataLoaded: true,
     });
   }
@@ -78,8 +78,13 @@ export default class HomePage extends Component {
   }
 
   renderStops() {
-    const { closestStopsDisplay } = this.state;
-    return <StopsView stops={closestStopsDisplay} />;
+    const { closestStopsDisplay, stopIDToRouteIDs } = this.state;
+    return (
+      <StopsView
+        stops={closestStopsDisplay}
+        stopIDToRouteIDs={stopIDToRouteIDs}
+      />
+    );
   }
 
   renderInner() {

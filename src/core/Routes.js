@@ -58,4 +58,21 @@ export default class Routes {
       return routesForStops;
     }, []);
   }
+
+  static async getStopIDToRouteIDs(stopID) {
+    const routeIndex = await Routes.getRoutesIndex();
+    return Object.entries(routeIndex).reduce(function (
+      stopIDToRouteIDs,
+      [routeID, routeStopIDs]
+    ) {
+      return routeStopIDs.reduce(function (stopIDToRouteIDs, stopID) {
+        if (!stopIDToRouteIDs[stopID]) {
+          stopIDToRouteIDs[stopID] = [];
+        }
+        stopIDToRouteIDs[stopID].push(routeID);
+        return stopIDToRouteIDs;
+      }, stopIDToRouteIDs);
+    },
+    {});
+  }
 }
