@@ -21,7 +21,7 @@ const NAVIGATION_PANES = {
   ROUTES: 1,
   STOPS: 2,
 };
-const N_CLOSEST_STOPS_DISPLAY = 20;
+const N_CLOSEST_STOPS_DISPLAY = 10;
 
 export default class HomePage extends Component {
   constructor(props) {
@@ -79,7 +79,7 @@ export default class HomePage extends Component {
 
   renderStops() {
     const { closestStopsDisplay } = this.state;
-    return <StopsView closestStops={closestStopsDisplay} />;
+    return <StopsView stops={closestStopsDisplay} />;
   }
 
   renderInner() {

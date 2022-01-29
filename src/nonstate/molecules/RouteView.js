@@ -37,7 +37,7 @@ function getColor(routeNumber) {
   }
 }
 
-export default function Route({ route }) {
+export default function RouteView({ route }) {
   const routeID = route.routeID;
   const routeNumber = routeID.substring(0, 3);
   const routeDirection = routeID.substring(4, 5);
