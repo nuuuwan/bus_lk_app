@@ -48,6 +48,8 @@ export default class Routes {
         if (routeStopIDs.includes(searchStopID)) {
           routesForStops.push({
             routeID,
+            stopID: searchStopID,
+            stopName: searchStop.name,
             distance: searchStop.distance,
           });
           routeIDSet.add(routeID);
