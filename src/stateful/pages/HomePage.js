@@ -10,7 +10,7 @@ import Paper from "@mui/material/Paper";
 
 import Stops from "../../core/Stops.js";
 import Routes from "../../core/Routes.js";
-import ClosestStopsView from "../../nonstate/molecules/ClosestStopsView.js";
+import StopsView from "../../nonstate/molecules/StopsView.js";
 import RoutesView from "../../nonstate/molecules/RoutesView.js";
 import GeoMap from "../molecules/GeoMap.js";
 import StopCircle from "../../nonstate/molecules/StopCircle.js";
@@ -30,7 +30,7 @@ export default class HomePage extends Component {
       latLng: undefined,
       closestStops: undefined,
       isDataLoaded: false,
-      navigationPaneValue: NAVIGATION_PANES.ROUTES,
+      navigationPaneValue: NAVIGATION_PANES.STOPS,
     };
   }
 
@@ -79,7 +79,7 @@ export default class HomePage extends Component {
 
   renderStops() {
     const { closestStopsDisplay } = this.state;
-    return <ClosestStopsView closestStops={closestStopsDisplay} />;
+    return <StopsView closestStops={closestStopsDisplay} />;
   }
 
   renderInner() {

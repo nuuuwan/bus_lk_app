@@ -27,3 +27,4 @@
   *  [2022-01-29 04:54PM] Added Routes
   *  [2022-01-29 04:55PM] Renamed busses to routes
   *  [2022-01-29 05:38PM] Added RouteView
+  *  [2022-01-29 05:38PM] Renamed StopsView

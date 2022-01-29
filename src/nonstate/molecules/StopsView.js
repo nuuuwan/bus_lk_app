@@ -1,5 +1,5 @@
 import Distance from "../atoms/Distance.js";
-export default function ClosestStopsView({ closestStops }) {
+export default function StopsView({ closestStops }) {
   return (
     <ul>
       {closestStops.map(function (stop, iStop) {
