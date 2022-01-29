@@ -4,7 +4,7 @@ import STYLES from "../../Styles.js";
 export default function StopCircle({ stop }) {
   return (
     <CircleMarker
-      center={stop.lat_lng}
+      center={stop.latLng}
       radius={STYLES.stopCircle.radius}
       pathOptions={STYLES.stopCircle}
     />

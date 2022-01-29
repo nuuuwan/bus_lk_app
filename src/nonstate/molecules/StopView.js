@@ -4,7 +4,7 @@ import Distance from "../atoms/Distance.js";
 import RouteIDView from "../molecules/RouteIDView.js";
 
 export default function StopView({ stop, stopIDToRouteIDs }) {
-  const stopID = stop.stop_id;
+  const { stopID } = stop;
   const routeIDs = stopIDToRouteIDs[stopID] || [];
 
   return (

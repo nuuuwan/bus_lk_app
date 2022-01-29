@@ -40,7 +40,7 @@ export default class Routes {
     const routeIndex = await Routes.getRoutesIndex();
     var routeIDSet = new Set();
     return searchStops.reduce(function (routesForStops, searchStop) {
-      const searchStopID = searchStop.stop_id;
+      const searchStopID = searchStop.stopID;
       for (var [routeID, routeStopIDs] of Object.entries(routeIndex)) {
         if (routeIDSet.has(routeID)) {
           continue;
@@ -50,7 +50,7 @@ export default class Routes {
             routeID,
             stopID: searchStopID,
             stopName: searchStop.name,
-            stopLatLng: searchStop.lat_lng,
+            stopLatLng: searchStop.latLng,
             distance: searchStop.distance,
           });
           routeIDSet.add(routeID);

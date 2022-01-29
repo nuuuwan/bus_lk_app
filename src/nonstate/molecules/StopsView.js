@@ -8,7 +8,7 @@ import StopView from "../molecules/StopView.js";
 
 function StopsViewItem({ stop, stopIDToRouteIDs, onUpdateLatLng }) {
   const onClickInner = function () {
-    onUpdateLatLng(stop.lat_lng);
+    onUpdateLatLng(stop.latLng);
   };
   return (
     <ListItemButton onClick={onClickInner}>
