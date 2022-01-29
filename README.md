@@ -39,3 +39,4 @@
   *  [2022-01-29 06:50PM] Moving Map
   *  [2022-01-29 06:51PM] Removed logging
   *  [2022-01-29 07:20PM] Added Click on Stops; Changed Icons
+  *  [2022-01-29 07:28PM] Added Click Route

@@ -50,6 +50,7 @@ export default class Routes {
             routeID,
             stopID: searchStopID,
             stopName: searchStop.name,
+            stopLatLng: searchStop.lat_lng,
             distance: searchStop.distance,
           });
           routeIDSet.add(routeID);

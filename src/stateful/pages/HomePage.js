@@ -105,7 +105,12 @@ export default class HomePage extends Component {
 
   renderRoutes() {
     const { routesForStops } = this.state;
-    return <RoutesView routes={routesForStops} />;
+    return (
+      <RoutesView
+        routes={routesForStops}
+        onUpdateLatLng={this.onUpdateLatLng.bind(this)}
+      />
+    );
   }
 
   renderStops() {
