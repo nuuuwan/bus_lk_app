@@ -1,4 +1,6 @@
 import Typography from "@mui/material/Typography";
+import DirectionsWalkIcon from "@mui/icons-material/DirectionsWalk";
+
 const WALKING_SPEED_KMPH = 4.5;
 const MIN_IN_HOUR = 60;
 
@@ -27,7 +29,8 @@ function WalkingTimeOnly({ distanceKM }) {
   );
   return (
     <Typography variant="subtitle2" component="span">
-      {walkingTimeMin} min walk
+      {walkingTimeMin} min
+      <DirectionsWalkIcon sx={{ height: 14 }} />
     </Typography>
   );
 }

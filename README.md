@@ -35,3 +35,4 @@
   *  [2022-01-29 06:13PM] navigationPaneValue: NAVIGATION_PANES.ROUTES
   *  [2022-01-29 06:19PM] Random start
   *  [2022-01-29 06:25PM] Various
+  *  [2022-01-29 06:35PM] Changed font to Lato
