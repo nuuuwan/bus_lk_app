@@ -15,7 +15,7 @@ import RoutesView from "../../nonstate/molecules/RoutesView.js";
 import GeoMap from "../molecules/GeoMap.js";
 import StopCircle from "../../nonstate/molecules/StopCircle.js";
 
-const DEFAULT_ZOOM = 18;
+const DEFAULT_ZOOM = 16;
 const NAVIGATION_PANES = {
   MAP: 0,
   ROUTES: 1,
@@ -23,12 +23,21 @@ const NAVIGATION_PANES = {
 };
 const N_CLOSEST_STOPS_DISPLAY = 10;
 
+function getRandomDelta() {
+  return (Math.random()  * 2 - 1) * 0.01
+}
+function getRandomGeoLocation() {
+  const [lat0, lng0] = [6.9172829187372065, 79.86479515647251];
+  const [dLat, dLng] = [getRandomDelta(), getRandomDelta()];
+  return [lat0 + dLat, lng0 + dLng];
+}
+
 export default class HomePage extends Component {
   constructor(props) {
     super(props);
     this.state = {
       isDataLoaded: false,
-      navigationPaneValue: NAVIGATION_PANES.ROUTES,
+      navigationPaneValue: NAVIGATION_PANES.MAP,
     };
   }
 
@@ -39,8 +48,8 @@ export default class HomePage extends Component {
   }
 
   async onGetCurrentPosition(position) {
-    const latLng = [position.coords.latitude, position.coords.longitude];
-    // const latLng = [6.9172829187372065, 79.86479515647251]
+    // const latLng = [position.coords.latitude, position.coords.longitude];
+    const latLng = getRandomGeoLocation();
     const closestStops = await Stops.getClosestStops(latLng);
     const closestStopsDisplay = closestStops.slice(0, N_CLOSEST_STOPS_DISPLAY);
     const routesForStops = await Routes.getRoutesForStops(closestStopsDisplay);
