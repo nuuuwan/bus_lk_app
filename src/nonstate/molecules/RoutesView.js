@@ -4,7 +4,7 @@ import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 import DirectionsBusIcon from "@mui/icons-material/DirectionsBus";
-import RouteView from "../atoms/RouteView.js";
+import RouteView from "../molecules/RouteView.js";
 
 function RoutesViewItem({ route }) {
   return (
