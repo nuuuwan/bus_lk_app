@@ -4,13 +4,11 @@ import Box from "@mui/material/Box";
 import BottomNavigation from "@mui/material/BottomNavigation";
 import BottomNavigationAction from "@mui/material/BottomNavigationAction";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
-import DirectionsBusIcon from "@mui/icons-material/DirectionsBus";
 import MultipleStopIcon from "@mui/icons-material/MultipleStop";
 import Paper from "@mui/material/Paper";
 
 import Stops from "../../core/Stops.js";
 import Routes from "../../core/Routes.js";
-import StopsView from "../../nonstate/molecules/StopsView.js";
 import RoutesView from "../../nonstate/molecules/RoutesView.js";
 import GeoMap from "../molecules/GeoMap.js";
 import StopCircle from "../../nonstate/molecules/StopCircle.js";
@@ -19,7 +17,6 @@ const DEFAULT_ZOOM = 18;
 const NAVIGATION_PANES = {
   MAP: 0,
   ROUTES: 1,
-  STOPS: 2,
 };
 const N_CLOSEST_STOPS_DISPLAY = 10;
 
@@ -113,17 +110,6 @@ export default class HomePage extends Component {
     );
   }
 
-  renderStops() {
-    const { closestStopsDisplay, stopIDToRouteIDs } = this.state;
-    return (
-      <StopsView
-        stops={closestStopsDisplay}
-        stopIDToRouteIDs={stopIDToRouteIDs}
-        onUpdateLatLng={this.onUpdateLatLng.bind(this)}
-      />
-    );
-  }
-
   renderInner() {
     const { navigationPaneValue } = this.state;
 
@@ -132,8 +118,6 @@ export default class HomePage extends Component {
         return this.renderMap();
       case NAVIGATION_PANES.ROUTES:
         return this.renderRoutes();
-      case NAVIGATION_PANES.STOPS:
-        return this.renderStops();
       default:
         return null;
     }
@@ -161,10 +145,6 @@ export default class HomePage extends Component {
             <BottomNavigationAction
               label="Routes"
               icon={<MultipleStopIcon />}
-            />
-            <BottomNavigationAction
-              label="Stops"
-              icon={<DirectionsBusIcon />}
             />
           </BottomNavigation>
         </Paper>
