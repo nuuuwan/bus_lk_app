@@ -128,10 +128,12 @@ export default class HomePage extends Component {
 
     return (
       <Box>
-        {this.renderInner()}
+        <Box sx={{ paddingBottom: 10 }} elevation={2}>
+          {this.renderInner()}
+        </Box>
         <Paper
-          sx={{ position: "fixed", bottom: 0, left: 0, right: 0 }}
-          elevation={3}
+          sx={{ position: "fixed", bottom: 0, left: 0, right: 0, height: 60 }}
+          elevation={1}
         >
           <BottomNavigation
             showLabels
