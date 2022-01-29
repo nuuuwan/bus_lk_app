@@ -14,8 +14,10 @@ export default function RouteView({ route, onUpdateLatLng }) {
     onUpdateLatLng(route.stopLatLng);
   };
 
+  const opacity = (route.distance <= MAX_WALKING_DISTAICE) ? 1 : 0.1;
+
   return (
-    <ListItemButton onClick={onClick}>
+    <ListItemButton onClick={onClick} sx={{opacity}}>
       <ListItemIcon>
         <MultipleStopIcon />
       </ListItemIcon>
