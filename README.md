@@ -54,3 +54,4 @@
   *  [2022-01-29 10:36PM] Various
   *  [2022-01-29 10:40PM] Switched last and closest stations
   *  [2022-01-29 10:45PM] const DEFAULT_ZOOM = 16;
+  *  [2022-01-29 10:52PM] Reverted Zoom and Opacity

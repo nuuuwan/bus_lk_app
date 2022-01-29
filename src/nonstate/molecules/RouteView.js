@@ -15,7 +15,7 @@ export default function RouteView({ route, stopsIndex, onUpdateLatLng }) {
     onUpdateLatLng(route.closestStopLatLng);
   };
 
-  const opacity = route.distance <= MAX_WALKING_DISTAICE ? 1 : 0.5;
+  const opacity = route.distance <= MAX_WALKING_DISTAICE ? 1 : 0.3;
 
   const nStops = route.routeStopIDs.length;
   const lastStopID = route.routeStopIDs[nStops - 1];

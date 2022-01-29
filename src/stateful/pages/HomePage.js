@@ -13,7 +13,7 @@ import RoutesView from "../../nonstate/molecules/RoutesView.js";
 import GeoMap from "../molecules/GeoMap.js";
 import StopCircle from "../../nonstate/molecules/StopCircle.js";
 
-const DEFAULT_ZOOM = 16;
+const DEFAULT_ZOOM = 18;
 const NAVIGATION_PANES = {
   MAP: 0,
   ROUTES: 1,
