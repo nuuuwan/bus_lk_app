@@ -41,8 +41,8 @@ export default class HomePage extends Component {
   }
 
   async onGetCurrentPosition(position) {
-    // const latLng = [position.coords.latitude, position.coords.longitude];
-    const latLng = [6.9172829187372065, 79.86479515647251]
+    const latLng = [position.coords.latitude, position.coords.longitude];
+    // const latLng = [6.9172829187372065, 79.86479515647251]
 
     const closestStops = await Stops.getClosestStops(latLng);
 
