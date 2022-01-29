@@ -42,3 +42,4 @@
   *  [2022-01-29 07:28PM] Added Click Route
   *  [2022-01-29 09:34PM] Changed python style attributes
   *  [2022-01-29 09:36PM] Removed StopsView
+  *  [2022-01-29 09:38PM] Removed RouteViewItem
