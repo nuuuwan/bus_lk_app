@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bus_lk_app/static/css/main.570a53d3.chunk.css",
-    "main.js": "/bus_lk_app/static/js/main.e89da456.chunk.js",
-    "main.js.map": "/bus_lk_app/static/js/main.e89da456.chunk.js.map",
+    "main.js": "/bus_lk_app/static/js/main.b2218d07.chunk.js",
+    "main.js.map": "/bus_lk_app/static/js/main.b2218d07.chunk.js.map",
     "runtime-main.js": "/bus_lk_app/static/js/runtime-main.6916519c.js",
     "runtime-main.js.map": "/bus_lk_app/static/js/runtime-main.6916519c.js.map",
-    "static/js/2.7fda91b6.chunk.js": "/bus_lk_app/static/js/2.7fda91b6.chunk.js",
-    "static/js/2.7fda91b6.chunk.js.map": "/bus_lk_app/static/js/2.7fda91b6.chunk.js.map",
+    "static/js/2.115f2508.chunk.js": "/bus_lk_app/static/js/2.115f2508.chunk.js",
+    "static/js/2.115f2508.chunk.js.map": "/bus_lk_app/static/js/2.115f2508.chunk.js.map",
     "static/js/3.1af214e9.chunk.js": "/bus_lk_app/static/js/3.1af214e9.chunk.js",
     "static/js/3.1af214e9.chunk.js.map": "/bus_lk_app/static/js/3.1af214e9.chunk.js.map",
     "index.html": "/bus_lk_app/index.html",
     "static/css/main.570a53d3.chunk.css.map": "/bus_lk_app/static/css/main.570a53d3.chunk.css.map",
-    "static/js/2.7fda91b6.chunk.js.LICENSE.txt": "/bus_lk_app/static/js/2.7fda91b6.chunk.js.LICENSE.txt"
+    "static/js/2.115f2508.chunk.js.LICENSE.txt": "/bus_lk_app/static/js/2.115f2508.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6916519c.js",
-    "static/js/2.7fda91b6.chunk.js",
+    "static/js/2.115f2508.chunk.js",
     "static/css/main.570a53d3.chunk.css",
-    "static/js/main.e89da456.chunk.js"
+    "static/js/main.b2218d07.chunk.js"
   ]
 }
