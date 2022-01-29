@@ -14,7 +14,7 @@ export default function RouteView({ route, onUpdateLatLng }) {
     onUpdateLatLng(route.stopLatLng);
   };
 
-  const opacity = (route.distance <= MAX_WALKING_DISTAICE) ? 1 : 0.1;
+  const opacity = (route.distance <= MAX_WALKING_DISTAICE) ? 1 : 0.5;
 
   return (
     <ListItemButton onClick={onClick} sx={{opacity}}>
