@@ -22,3 +22,4 @@
   *  [2022-01-28 09:28PM] Various formatting
   *  [2022-01-29 04:08PM] Added center circle
   *  [2022-01-29 04:08PM] Added center circle
+  *  [2022-01-29 04:11PM] Updated Styles

@@ -16,7 +16,7 @@ import StopCircle from "../../nonstate/molecules/StopCircle.js";
 
 import "./HomePage.css";
 
-const DEFAULT_ZOOM = 16;
+const DEFAULT_ZOOM = 18;
 const NAVIGATION_PANES = {
   MAP: 0,
   BUSES: 1,
