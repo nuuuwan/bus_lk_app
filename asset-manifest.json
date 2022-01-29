@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bus_lk_app/static/css/main.570a53d3.chunk.css",
-    "main.js": "/bus_lk_app/static/js/main.38af26bf.chunk.js",
-    "main.js.map": "/bus_lk_app/static/js/main.38af26bf.chunk.js.map",
+    "main.js": "/bus_lk_app/static/js/main.6f288555.chunk.js",
+    "main.js.map": "/bus_lk_app/static/js/main.6f288555.chunk.js.map",
     "runtime-main.js": "/bus_lk_app/static/js/runtime-main.bdd86cd7.js",
     "runtime-main.js.map": "/bus_lk_app/static/js/runtime-main.bdd86cd7.js.map",
     "static/js/2.5f8cf3ec.chunk.js": "/bus_lk_app/static/js/2.5f8cf3ec.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bdd86cd7.js",
     "static/js/2.5f8cf3ec.chunk.js",
     "static/css/main.570a53d3.chunk.css",
-    "static/js/main.38af26bf.chunk.js"
+    "static/js/main.6f288555.chunk.js"
   ]
 }
